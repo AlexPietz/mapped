@@ -1,12 +1,18 @@
-# mapped
+# mappED
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+User-focused campus map with easy search and information.
 
-## Build & development
+## Motivation
 
-Run `grunt` for building and `grunt serve` for preview.
+There are several resources on locations at the University scattered all over the place - Finding a room inside a building that you have never been to can be quite the endeavour. We wanted to change this by creating one centralized place providing location and information on all University buildings.
+[..]
 
-## Testing
 
-Running `grunt test` will run the unit tests with karma.
+## Contributors
+* Thomas Kozlowski  -  [@?](https://twitter.com/?)  
+* Andrew Lindsay  -  [@?](https://twitter.com/?)  
+* Jaka Mohorko  -  [@?](https://twitter.com/?)  
+* Alexander Pietz  -  [@AlexPietz](https://twitter.com/AlexPietz) 
+
+
+This Project is part of the [University of Edinburgh Smart Data Hack](http://smartdatahack.org/)
