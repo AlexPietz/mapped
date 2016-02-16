@@ -8,11 +8,61 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script>
+var mockDataForThisTest = "json=" + encodeURI(JSON.stringify([
+    {
+    id: 1,
+    firstName: "Peter",
+    lastName: "Jhons"},
+{
+    id: 2,
+    firstName: "David",
+    lastName: "Bowie"}
+]));
+
+
+var app = angular.module('app', []);
+app.controller('PeopleCtrl', function($scope, $http) {
+
+    $scope.people = [];
+
+    $scope.loadPeople = function() {
+        var httpRequest = $http({
+            method: 'GET',
+            url: '/echo/json/',
+            data: mockDataForThisTest
+
+        }).success(function(data, status) {
+            $scope.people = data;
+        });
+        window.alert("sometext");
+    };
+
+});
+</script>
   
   
   </head>
   <body>
-  <div ng-app="" ng-init="searchT=''">
+  <div ng-app="app" ng-init="searchT=''">        
+
+<div ng-controller="PeopleCtrl">
+    <p>    Click <a ng-click="loadPeople()">here</a> to load data.</p>
+<table>
+    <tr>
+        <th>Id</th>
+        <th>First Name</th>
+        <th>Last Name</th>
+    </tr>
+    <tr ng-repeat="person in people">
+        <td>{{person.id}}</td>
+        <td>{{person.firstName}}</td>
+        <td>{{person.lastName}}</td>
+    </tr>
+</table>
+</div>
+
+
   <div class="container-fluid" style="background-color:#F44336;color:#fff;height:300px;">
 	  <div class="container">
 		<div class="col-xs-12" style="height:40px;"></div>
@@ -116,7 +166,8 @@
   <h1>Some text to enable scrolling</h1>
   <h1>Some text to enable scrolling</h1>
 </div>
-</div>
+</div>       
+
 </div>		
 </body>
 </html>
