@@ -31,13 +31,35 @@ app.controller('PeopleCtrl', function($scope, $http) {
         });
       });
     </script>
-    <script>
-
-    </script>
-  
+  <script src="scripts/toTop.js" charset="utf-8"></script>
   
   </head>
   <body>
+    <script>
+$('body').toTop({
+
+  //  CSS styles for the scroll to top button
+  css: {
+    position: "fixed",
+    right: '2rem',
+    bottom: '1rem',
+    fontSize: '4rem',
+    cursor: 'pointer',
+    color: '#1e1e1e'
+  },
+
+  // text for the scroll to top button
+  symbol: '&#8963;',
+
+  // animation speed for the scrolling effect
+  scrollUpSpeed: 2000,
+
+  // distance from top of the webpage to trigger the plugin
+  triggerHeight: 250
+  
+});
+    </script>
+
   <div ng-app="app" ng-init="searchT=''">        
 
 
