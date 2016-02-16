@@ -31,6 +31,9 @@ app.controller('PeopleCtrl', function($scope, $http) {
         });
       });
     </script>
+    <script>
+
+    </script>
   
   
   </head>
@@ -42,44 +45,50 @@ app.controller('PeopleCtrl', function($scope, $http) {
 
 
 
-  <div class="container-fluid" style="background-color:#F44336;color:#fff;height:300px;">
+  <div class="container-fluid" style="background-color:#F44336;color:#fff;height:150px;">
 	  <div class="container">
-		<div class="col-xs-12" style="height:40px;"></div>
+		<div class="col-xs-12" style="height:5px;"></div>
 		    <div class="col-md-2"></div>
 			<div class="col-md-8">
 			<h1>MappED</h1>
 				<div id="custom-search-input">
 					<div class="input-group col-md-12">
-            
+            <span class="input-group-btn" id="collapsebutton">
+             <button class="btn btn-info btn-lg" data-toggle="collapse" data-target="#collapseDivOptions" ng-click="collapseState[$index]= !collapseState[$index]">
+                <span class="glyphicon" id="servicedrop"  ng-class="collapseState[$index] ? 'glyphicon glyphicon-menu-down' : 'glyphicon glyphicon-menu-right'"></span>
+              </button>
+              </span>
 						<input type="text" class="form-control input-lg" placeholder="Search" ng-model="searchT" />
+
+             
+
 						<span class="input-group-btn">
 							<button class="btn btn-info btn-lg" type="button">
-								<i class="glyphicon glyphicon-search"></i>
+								<i id="searchbutton" class="glyphicon glyphicon-search"></i>
 							</button>
 						</span>
 					</div>
-			</div>
-					   <div class="collapse" id="collapseDiv">
-							<div class="checkbox">
-							  <label><input type="checkbox" value="">Computers</label>
-							</div>
-							<div class="checkbox">
-							  <label><input type="checkbox" value="">Silent Study</label>
-							</div>
-							<div class="checkbox">
-							  <label><input type="checkbox" value="">???</label>
-							</div>
-						</div>
-							<button data-toggle="collapse" data-target="#collapseDiv">
-								<span class="glyphicon glyphicon-plus-sign"></span>
-							</button>
+
+            <div class="collapse" id="collapseDivOptions" ng-model="collapseState">
+              <div class="checkbox">
+                <label><input type="checkbox" value="">Computers</label>
+              </div>
+              <div class="checkbox">
+                <label><input type="checkbox" value="">Silent Study</label>
+              </div>
+              <div class="checkbox">
+                <label><input type="checkbox" value="">???</label>
+              </div>
+            </div>
+
+			     </div>
 			
 		</div>
 		
 	</div>
   </div>
   
-  <img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="297">
+  <img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="150">
   
   <div class="container">
       <div class="col-xs-12" style="height:50px;"></div>

@@ -17,18 +17,50 @@
     border: 0;
     color: #666666;
     padding: 0 8px 0 10px;
-    border-left: solid 1px #ccc;
+    /*border-left: solid 1px #ccc;*/
 }
 
-#custom-search-input button:hover{
+#searchbutton:hover{
     border: 0;
     box-shadow: none;
+    /*border: none !important;*/
+    padding-left: 5px;
     border-left: solid 1px #ccc;
 }
 
 #custom-search-input .glyphicon-search{
     font-size: 23px;
+/*    padding-left: 2cm;
+        border-collapse: separate;
+        border-spacing: 10px 0px;
+        border-left: solid 1px #ccc;*/
 }
+
+#collapsebutton{
+/*    margin: -2px 0 0 0;*/
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    font-size: 30px;
+    padding-right: 3px;
+    border-right: solid 1px #ddd;
+}
+
+#collapsebutton:focus,#collapsebutton:active:focus,#collapsebutton.active:focus,
+#collapsebutton.focus,#collapsebutton:active.focus,#collapsebutton.active.focus {
+    outline: none;
+}
+
+#collapseDivOptions{
+    border-top: solid 1px #ddd;
+    margin: 0px 0 0 0;
+    background: none;
+    box-shadow: none;
+    color: #666666;
+    padding: 0 8px 0 10px;
+}
+
 
 .top-buffer { margin-top:50; }
 
