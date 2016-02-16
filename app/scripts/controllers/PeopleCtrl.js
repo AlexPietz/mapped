@@ -1,30 +1,12 @@
-var mockDataForThisTest = "json=" + encodeURI(JSON.stringify([
-    {
-    id: 1,
-    firstName: "Peter",
-    lastName: "Jhons"},
-{
-    id: 2,
-    firstName: "David",
-    lastName: "Bowie"}
-]));
-
-
 var app = angular.module('app', []);
-app.controller('PeopleCtrl', function($scope $http) {
-
-    $scope.people = [];
+app.controller('PeopleCtrl', function($scope, $http) {
 
     $scope.loadPeople = function() {
-        var httpRequest = $http({
-            method: 'POST',
-            url: '/echo/json/',
-            data: mockDataForThisTest
+  $http.get('data.json').success(function(data) {
+       $scope.people = data;
+   });
 
-        }).success(function(data, status) {
-            $scope.people = data;
-        });
         window.alert("sometext");
     };
 
-}
+});
