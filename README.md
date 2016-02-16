@@ -1,5 +1,7 @@
 # mappED
 
+![Preview](http://pietz.uk/mapped.gif)
+
 User-focused campus map with easy search and information.
 
 ## Motivation
