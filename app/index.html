@@ -82,45 +82,27 @@ app.controller('PeopleCtrl', function($scope, $http) {
   <img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="297">
   
   <div class="container">
-      <div class="col-xs-12" style="height:75px;"></div>
+      <div class="col-xs-12" style="height:50px;"></div>
   </div>
   
-  
-  <div class="col-xs-12" style="height:100px;"></div>
-  
-  <div class="container-fluid">
+
+   <div ng-controller="CountryCtrl">
+  <div class="container-fluid" ng-repeat="country in countries | filter:searchT">
 	  <div class="panel-group">
 		<div class="panel panel-default">
 		  <div class="panel-heading">
 			<h1 class="panel-title">
-			  <a data-toggle="collapse" href="#collapse1">You searched for: {{searchT}}</a>
+       <a data-toggle="collapse" href="#collapse{{country.abbreviation}}">{{country.name}}</a>
 			</h1>
 		  </div>
-		  <div id="collapse1" class="panel-collapse collapse">
-			<div class="panel-body">Ballz
+		  <div id="collapse{{country.abbreviation}}" class="panel-collapse collapse">
+			<div class="panel-body">{{country.address}}
 			 <div class="col-xs-12" style="height:200px;"></div></div>
 		  </div>
 		</div>
 	  </div>
 	</div>
-
-	 <div class="col-xs-12" style="height:100px;"></div>
-	<div class="container-fluid">
-	  <div class="panel-group">
-		<div class="panel panel-default">
-		  <div class="panel-heading">
-			<h1 class="panel-title">
-			  <a data-toggle="collapse" href="#collapse2">This needs a style revamp</a>
-			</h1>
-		  </div>
-		  <div id="collapse2" class="panel-collapse collapse">
-			<div class="panel-body">Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz Ballz BallzBallzBallzBallzBallzBallzBallzBallzBallzBallz
-			 <div class="col-xs-12" style="height:200px;"></div>
-			 </div>
-		  </div>
-		</div>
-	  </div>
-
+  </div>
 	</div>
 	
  <div ng-controller="CountryCtrl">
@@ -133,7 +115,7 @@ app.controller('PeopleCtrl', function($scope, $http) {
         <th>Adress</th>
         <th>Campus</th>
       </tr>
-      <tr ng-repeat="country in countries">
+      <tr ng-repeat="country in countries | filter:searchT">
         <td>{{country.abbreviation}}</td>
         <td>{{country.name}}</td>
         <td>{{country.longitude}}</td>
