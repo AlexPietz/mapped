@@ -52,12 +52,14 @@
 	<div ng-app="app" ng-init="searchT=''">  
 		<!-- TOP Container START-->   
 		<div class="container-fluid" style="background-color:#F44336;color:#fff;height:20%;padding:3%">
-			<div class="container">
-				<div class="col-md-2"></div>
-				<div class="col-md-8">
-					<h1 style="margin-top: 0px !important">MappED</h1>
+		<div class="container" style="width:90%";>
+				<div class="col-sm-3">
+				<img class="img" src="logo.png" alt="logo" style="height:250px">
+				</div>
+				<div class="col-sm-6">
+					<img class="img" src="logo1.png" alt="logo1" style="height:90px;padding-bottom:10px;">
 					<div id="custom-search-input">
-						<div class="input-group col-md-12">
+						<div class="input-group col-sm-12">
 							<span class="input-group-btn" id="collapsebutton">
 								<button class="btn btn-info btn-lg" data-toggle="collapse" data-target="#collapseDivOptions" ng-click="collapseState[$index]= !collapseState[$index]">
 									<span class="glyphicon" id="servicedrop"  ng-class="collapseState[$index] ? 'glyphicon glyphicon-menu-down' : 'glyphicon glyphicon-menu-right'"></span>
