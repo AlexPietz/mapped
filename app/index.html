@@ -38,6 +38,7 @@ app.controller('PeopleCtrl', function($scope, $http) {
       thisApp.controller('CountryCtrl', function ($scope, $http){
         $http.get('data2.json').success(function(data2) {
           $scope.countries = data2;
+        $scope.addmarker = function(x,y) { var marker = L.marker([x, y]).addTo(map); };
         });
       });
     </script>
@@ -69,6 +70,7 @@ $('body').toTop({
   
 });
     </script>
+
 
     
 
@@ -153,12 +155,13 @@ $('body').toTop({
 		<div class="panel panel-default">
 		  <div class="panel-heading">
 			<h1 class="panel-title">
-       <a data-toggle="collapse" href="#collapse{{country.abbreviation}}">{{country.name}}</a>
+       <a data-toggle="collapse" href="#collapse{{country.abbreviation}}" onclick="addmarker({{country.longitude}},{{country.latitude}});">{{country.name}} </a>
 			</h1>
 		  </div>
 		  <div id="collapse{{country.abbreviation}}" class="panel-collapse collapse">
 			<div class="panel-body">
-      
+      <a id="myLink" href="#" ng-click="addmarker(55.943,-3.18)">def marker</a>
+      <a id="myLink" href="#" ng-click="addmarker(country.latitude, country.longitude)">ef marker</a>
       {{country.address}}
 
       <img src= "{{country.image}}"  class = "img-thumbnail"> 
