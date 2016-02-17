@@ -68,8 +68,10 @@
 
 .top-buffer { margin-top:50; }
 
+#map {
+    position: relative;
+}
 .affix {
-      position: sticky; /* only works in ff */
       top: 0;
       width: 100%;
       display: block;
