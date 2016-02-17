@@ -65,11 +65,17 @@
     padding: 0 8px 0 10px;
 }
 
+.padbutton (margin:5px;)
 
 .top-buffer { margin-top:50; }
 
 #map {
+    position: relative;
+    z-index: 9999;
+}
+.panel {
     position: relative
+    z-index: -2;
 }
 .affix {
       top: 0;
