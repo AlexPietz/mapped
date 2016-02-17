@@ -1,5 +1,5 @@
 
-#map { height: 400px; }
+#map { height: 300px; }
 
 
 #custom-search-input{
@@ -69,7 +69,7 @@
 .top-buffer { margin-top:50; }
 
 #map {
-    position: relative;
+    position: relative
 }
 .affix {
       top: 0;

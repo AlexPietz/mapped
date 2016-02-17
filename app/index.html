@@ -82,12 +82,12 @@ $('body').toTop({
 
 
 
-  <div class="container-fluid" style="background-color:#F44336;color:#fff;height:250px;">
+  <div class="container-fluid" style="background-color:#F44336;color:#fff;height:20%;padding:3%">
 	  <div class="container">
-		<div class="col-xs-12" style="height:10px;"></div>
+		<div class="col-xs-12" style="height:0px;"></div>
 		    <div class="col-md-2"></div>
 			<div class="col-md-8">
-			<h1>MappED</h1>
+			<h1 style="margin-top: 0px !important">MappED</h1>
 				<div id="custom-search-input">
 					<div class="input-group col-md-12">
             <span class="input-group-btn" id="collapsebutton">
@@ -127,7 +127,7 @@ $('body').toTop({
   <!--<img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="250">-->
   <div id="map" class="img-responsive" data-spy="affix" data-offset-top="250"> </div>
     <script>  var map = L.map('map').setView([55.943,-3.18], 13);
-
+map.scrollWheelZoom.disable();
   // create the tile layer with correct attribution
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
