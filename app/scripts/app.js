@@ -8,6 +8,16 @@
  *
  * Main module of the application.
  */
+
+
+$(document).ready(function() {
+
+  var map = L.mapbox.map('map', 'jmlabs.k3egm800', {
+    center: [35.59, -82.56], // lat, long
+    zoom: 13
+  });
+
+
 angular
   .module('mappedApp', [
     'ngAnimate',

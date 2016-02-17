@@ -3,8 +3,10 @@
   <head>
     <meta charset="utf-8"> 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/custom.css">
+  <script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
@@ -23,11 +25,12 @@ app.controller('PeopleCtrl', function($scope, $http) {
 });
 </script>-->
 
+
     <script>
       var thisApp = angular.module('app', []);
       thisApp.controller('CountryCtrl', function ($scope, $http){
-        $http.get('data.json').success(function(data) {
-          $scope.countries = data;
+        $http.get('data2.json').success(function(data2) {
+          $scope.countries = data2;
         });
       });
     </script>
@@ -60,6 +63,9 @@ $('body').toTop({
 });
     </script>
 
+    
+
+
   <div ng-app="app" ng-init="searchT=''">        
 
 
@@ -90,7 +96,6 @@ $('body').toTop({
 							</button>
 						</span>
 					</div>
-
             <div class="collapse" id="collapseDivOptions" ng-model="collapseState">
               <div class="checkbox">
                 <label><input type="checkbox" value="">Computers</label>
@@ -110,8 +115,27 @@ $('body').toTop({
 	</div>
   </div>
   
-  <img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="250">
-  
+  <!--<img class="img-responsive" src="images/Capture.PNG" alt="Capt" data-spy="affix" data-offset-top="250">-->
+  <div id="map"></div>
+   <script>
+
+    var map = L.map('map', {
+      center: [55.943,-3.18],
+      zoom: 15
+
+    });
+
+    L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpandmbXliNDBjZWd2M2x6bDk3c2ZtOTkifQ._QA7i5Mpkd_m30IGElHziw', {
+      maxZoom: 18,
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+        '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+        'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      id: 'mapbox.streets'
+    }).addTo(map);
+
+  </script>
+   
+
   <div class="container">
       <div class="col-xs-12" style="height:50px;"></div>
   </div>
@@ -127,7 +151,12 @@ $('body').toTop({
 			</h1>
 		  </div>
 		  <div id="collapse{{country.abbreviation}}" class="panel-collapse collapse">
-			<div class="panel-body">{{country.address}}
+			<div class="panel-body">
+      
+      {{country.address}}
+
+      <img src= "{{country.image}}"  class = "img-thumbnail"> 
+
 			 <div class="col-xs-12" style="height:200px;"></div></div>
 		  </div>
 		</div>
@@ -135,6 +164,6 @@ $('body').toTop({
 	</div>
   </div>
 	</div>
-</div>		
+</div>
 </body>
 </html>
