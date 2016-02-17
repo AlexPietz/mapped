@@ -65,7 +65,10 @@
     padding: 0 8px 0 10px;
 }
 
-.padbutton (margin:5px;)
+
+.btn-space {
+    margin: 5px;
+}
 
 .top-buffer { margin-top:50; }
 
