@@ -1,16 +1,11 @@
 $(document).ready(function() {
- 
-  /*
-   * Application Init
-   */
-  var map = L.mapbox.map('map', 'jmlabs.k3egm800', {
-    center: [35.59, -82.56], // lat, long
-    zoom: 13
-  });
 
-  L.mapbox.tileLayer('mapbox.pencil', {
-      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-      maxZoom: 18
-  }).addTo(map);
-  
+    var map = L.map('map').setView([55.943,-3.18], 13);
+
+  // create the tile layer with correct attribution
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+var marker = L.marker([55.944, -3.187]).addTo(map);
 });
