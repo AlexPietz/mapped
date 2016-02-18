@@ -1,6 +1,7 @@
 [
       {
          "abbreviation":"0401",
+         "computers":"",
          "name":"New College",
          "image":"default.jpg",
          "longitude":"-3.1952404975891113",
@@ -14,6 +15,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Mary Br\u00fcck building",
          "image":"default.jpg",
          "longitude":"-3.1730116009930500",
@@ -28,6 +30,7 @@
       },
       {
          "abbreviation":"0301",
+         "computers":"",
          "name":"St Cecilia's Hall",
          "image":"default.jpg",
          "longitude":"-3.1864374876022340",
@@ -41,6 +44,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Edinburgh Centre for Carbon Innovation",
          "image":"default.jpg",
          "longitude":"-3.1840935499349143",
@@ -54,6 +58,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Student Disability Service",
          "image":"default.jpg",
          "longitude":"-3.1888836622238160",
@@ -68,6 +73,7 @@
       },
       {
          "abbreviation":"0110",
+         "computers":"",
          "name":"Alison House",
          "image":"default.jpg",
          "longitude":"-3.1863999366760254",
@@ -82,6 +88,7 @@
       },
       {
          "abbreviation":"0108",
+         "computers":"",
          "name":"Potterow",
          "image":"default.jpg",
          "longitude":"-3.1879234313964844",
@@ -95,6 +102,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Business School",
          "image":"default.jpg",
          "longitude":"-3.1873118877410890",
@@ -109,6 +117,7 @@
       },
       {
          "abbreviation":"0104",
+         "computers":"",
          "name":"Bedlam Theatre",
          "image":"default.jpg",
          "longitude":"-3.1908202171325684",
@@ -123,6 +132,7 @@
       },
       {
          "abbreviation":"0113",
+         "computers":"",
          "name":"Medical School (Old Medical School)",
          "image":"default.jpg",
          "longitude":"-3.1905627250671387",
@@ -137,6 +147,7 @@
       },
       {
          "abbreviation":"0114",
+         "computers":"",
          "name":"McEwan Hall",
          "image":"default.jpg",
          "longitude":"-3.1896400451660156",
@@ -150,6 +161,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Reid Concert Hall",
          "image":"default.jpg",
          "longitude":"-3.1894040107727050",
@@ -164,6 +176,7 @@
       },
       {
          "abbreviation":"0116",
+         "computers":"",
          "name":"Teviot Row House",
          "image":"default.jpg",
          "longitude":"-3.1889533996582030",
@@ -178,6 +191,7 @@
       },
       {
          "abbreviation":"0210",
+         "computers":"",
          "name":"Hugh Robson Building",
          "image":"default.jpg",
          "longitude":"-3.1899189949035645",
@@ -191,6 +205,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"International Office",
          "image":"default.jpg",
          "longitude":"-3.1854477524757385",
@@ -206,6 +221,7 @@
       {
          "abbreviation":"0201",
          "image":"appleton.jpg",
+         "computers":"",
          "name":"Appleton Tower",
          "longitude":"-3.1870651245117188",
          "latitude":"55.9444416917442200",
@@ -218,6 +234,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"College of Humanities and Social Sciences Office",
          "image":"default.jpg",
          "longitude":"-3.1872582435607910",
@@ -232,6 +249,7 @@
       },
       {
          "abbreviation":"0227",
+         "computers":"",
          "name":"George Square (50)",
          "image":"default.jpg",
          "longitude":"-3.1871938705444336",
@@ -246,6 +264,7 @@
       },
       {
          "abbreviation":"0229",
+         "computers":"",
          "name":"David Hume Tower Lecture Theatres",
          "image":"default.jpg",
          "longitude":"-3.1862711906433105",
@@ -260,6 +279,7 @@
       },
       {
          "abbreviation":"0228",
+         "computers":"",
          "name":"David Hume Tower",
          "image":"default.jpg",
          "longitude":"-3.1866574287414550",
@@ -273,6 +293,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Student Counselling Service",
          "image":"default.jpg",
          "longitude":"-3.1886690855026245",
@@ -286,7 +307,12 @@
          ]
       },
       {
+<<<<<<< HEAD
          "name":"Careers Service (central)",
+=======
+         "computers":"",
+         "name":"Careers Service (Central Area)",
+>>>>>>> 362c47bea7a70a0c4ebc9f4838146a0091500b05
          "image":"default.jpg",
          "longitude":"-3.1894576549530030",
          "latitude":"55.9426602458471200",
@@ -299,6 +325,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Office of Lifelong Learning",
          "image":"default.jpg",
          "longitude":"-3.1795978546142580",
@@ -312,6 +339,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"International Students Centre",
          "image":"default.jpg",
          "longitude":"-3.1877517700195312",
@@ -325,6 +353,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Main University Library",
          "image":"default.jpg",
          "longitude":"-3.1891465187072754",
@@ -339,6 +368,7 @@
       },
       {
          "abbreviation":"0225",
+         "computers":"",
          "name":"George Square Lecture Theatre",
          "image":"default.jpg",
          "longitude":"-3.1882023811340330",
@@ -354,6 +384,7 @@
 
     
       {
+         "computers":"",
          "name":"British Geological Survey",
          "image":"default.jpg",
          "longitude":"-3.1791687011718750",
@@ -368,6 +399,7 @@
       },
       {
          "abbreviation":"0622",
+         "computers":"",
          "name":"Weir Building",
          "image":"default.jpg",
          "longitude":"-3.1792438030242920",
@@ -382,6 +414,7 @@
       },
       {
          "abbreviation":"0621",
+         "computers":"",
          "name":"Crew Building",
          "image":"default.jpg",
          "longitude":"-3.1776666641235350",
@@ -396,6 +429,7 @@
       },
       {
          "abbreviation":"0632",
+         "computers":"",
          "name":"Joseph Black Building",
          "image":"default.jpg",
          "longitude":"-3.1762075424194336",
@@ -410,6 +444,7 @@
       },
       {
          "abbreviation":"0648",
+         "computers":"",
          "name":"Roger Land Building",
          "image":"default.jpg",
          "longitude":"-3.1764221191406250",
@@ -423,6 +458,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Peter Wilson Building",
          "image":"default.jpg",
          "longitude":"-3.1765186786651610",
@@ -436,6 +472,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Grant Institute",
          "image":"default.jpg",
          "longitude":"-3.1746411323547363",
@@ -450,6 +487,7 @@
       },
       {
          "abbreviation":"0637",
+         "computers":"",
          "name":"King's Buildings House",
          "image":"default.jpg",
          "longitude":"-3.1748771667480470",
@@ -464,6 +502,7 @@
       },
       {
          "abbreviation":"0639",
+         "computers":"",
          "name":"King's Buildings Centre",
          "image":"default.jpg",
          "longitude":"-3.1746411323547363",
@@ -478,6 +517,7 @@
       },
       {
          "abbreviation":"0613",
+         "computers":"",
          "name":"James Clerk Maxwell Building",
          "image":"default.jpg",
          "longitude":"-3.1740939617156982",
@@ -492,6 +532,7 @@
       },
       {
          "abbreviation":"0640-0644",
+         "computers":"",
          "name":"Ashworth Laboratories",
          "image":"default.jpg",
          "longitude":"-3.1727099418640137",
@@ -505,6 +546,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Sanderson Building",
          "image":"default.jpg",
          "longitude":"-3.1717228889465330",
@@ -519,6 +561,7 @@
       },
       {
          "abbreviation":"0605",
+         "computers":"",
          "name":"John Muir Building",
          "image":"default.jpg",
          "longitude":"-3.1732544302940370",
@@ -533,6 +576,7 @@
       },
       {
          "abbreviation":"0602",
+         "computers":"",
          "name":"Hudson Beare Building",
          "image":"default.jpg",
          "longitude":"-3.1713366508483887",
@@ -547,6 +591,7 @@
       },
       {
          "abbreviation":"0616",
+         "computers":"",
          "name":"Alrick Building",
          "image":"default.jpg",
          "longitude":"-3.1714224815368652",
@@ -561,6 +606,7 @@
       },
       {
          "abbreviation":"0608",
+         "computers":"",
          "name":"Daniel Rutherford Building",
          "image":"default.jpg",
          "longitude":"-3.1706821918487550",
@@ -575,6 +621,7 @@
       },
       {
          "abbreviation":"0610",
+         "computers":"",
          "name":"Darwin Building",
          "image":"default.jpg",
          "longitude":"-3.1710684299468994",
@@ -588,6 +635,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Swann Building",
          "image":"default.jpg",
          "longitude":"-3.1719267368316650",
@@ -601,6 +649,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"John Murray Building",
          "image":"default.jpg",
          "longitude":"-3.1734287738800050",
@@ -615,6 +664,7 @@
       },
       {
          "abbreviation":"0647",
+         "computers":"",
          "name":"March Building",
          "image":"default.jpg",
          "longitude":"-3.1728494167327880",
@@ -629,6 +679,7 @@
       },
       {
          "abbreviation":"0652",
+         "computers":"",
          "name":"Ann Walker Building",
          "image":"default.jpg",
          "longitude":"-3.1738901138305664",
@@ -642,6 +693,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Structures Lab",
          "image":"default.jpg",
          "longitude":"-3.1726777553558350",
@@ -656,6 +708,7 @@
       },
       {
          "abbreviation":"0615",
+         "computers":"",
          "name":"Fleeming Jenkin Building",
          "image":"default.jpg",
          "longitude":"-3.1723880767822266",
@@ -669,6 +722,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Alexander Graham Bell Building",
          "image":"default.jpg",
          "longitude":"-3.1727340817451477",
@@ -682,6 +736,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Pleasance",
          "image":"default.jpg",
          "longitude":"-3.1815088394796476",
@@ -695,6 +750,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Pollock Halls of Residence",
          "image":"default.jpg",
          "longitude":"-3.1718409061431885",
@@ -709,6 +765,7 @@
       },
       {
          "abbreviation":"0905",
+         "computers":"",
          "name":"Abden House",
          "image":"default.jpg",
          "longitude":"-3.1692230701446533",
@@ -722,6 +779,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"South College Street",
          "image":"default.jpg",
          "longitude":"-3.1870731711387634",
@@ -735,6 +793,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square",
          "image":"default.jpg",
          "longitude":"-3.1886315345764160",
@@ -748,6 +807,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Informatics Forum",
          "image":"default.jpg",
          "longitude":"-3.1875371932983400",
@@ -761,6 +821,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Dugald Stewart Building",
          "image":"default.jpg",
          "longitude":"-3.1878590583801270",
@@ -775,6 +836,7 @@
       },
       {
          "abbreviation":"0603",
+         "computers":"",
          "name":"Faraday Building",
          "image":"default.jpg",
          "longitude":"-3.1716692447662354",
@@ -788,6 +850,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Chancellor's Building",
          "image":"default.jpg",
          "longitude":"-3.1368756294250490",
@@ -801,6 +864,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Queen's Medical Research Institute",
          "image":"default.jpg",
          "longitude":"-3.1388711929321290",
@@ -814,6 +878,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Chrystal Macmillan Building",
          "image":"default.jpg",
          "longitude":"-3.1908416748046875",
@@ -827,6 +892,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Visitor Centre",
          "image":"default.jpg",
          "longitude":"-3.1877946853637695",
@@ -840,6 +906,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Talbot Rice Gallery",
          "image":"default.jpg",
          "longitude":"-3.1878644227981567",
@@ -854,6 +921,7 @@
       },
       {
          "abbreviation":"0009",
+         "computers":"",
          "name":"Charles Stewart House",
          "image":"default.jpg",
          "longitude":"-3.1879770755767822",
@@ -868,6 +936,7 @@
       },
       {
          "abbreviation":"0701",
+         "computers":"",
          "name":"Royal (Dick) School of Veterinary Studies",
          "image":"default.jpg",
          "longitude":"-3.2010340690612793",
@@ -881,6 +950,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Buccleuch Place",
          "image":"default.jpg",
          "longitude":"-3.1865286827087402",
@@ -895,6 +965,7 @@
       },
       {
          "abbreviation":"0658",
+         "computers":"",
          "name":"Erskine Williamson Building",
          "image":"default.jpg",
          "longitude":"-3.1745553016662598",
@@ -909,6 +980,7 @@
       },
       {
          "abbreviation":"0109",
+         "computers":"",
          "name":"Health Centre",
          "image":"default.jpg",
          "longitude":"-3.1881996989250183",
@@ -922,6 +994,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"William Rankine Building",
          "image":"default.jpg",
          "longitude":"-3.1731122732162476",
@@ -936,6 +1009,7 @@
       },
       {
          "abbreviation":"0558",
+         "computers":"",
          "name":"Charteris Land",
          "image":"default.jpg",
          "longitude":"-3.1809121370315550",
@@ -950,6 +1024,7 @@
       },
       {
          "abbreviation":"0561",
+         "computers":"",
          "name":"Simon Laurie House",
          "image":"default.jpg",
          "longitude":"-3.1815370917320250",
@@ -964,6 +1039,7 @@
       },
       {
          "abbreviation":"0553",
+         "computers":"",
          "name":"St John's Land",
          "image":"default.jpg",
          "longitude":"-3.1810247898101807",
@@ -978,6 +1054,7 @@
       },
       {
          "abbreviation":"0552",
+         "computers":"",
          "name":"Dalhousie Land",
          "image":"default.jpg",
          "longitude":"-3.1807351112365723",
@@ -992,6 +1069,7 @@
       },
       {
          "abbreviation":"0556",
+         "computers":"",
          "name":"Old Nursery School Building",
          "image":"default.jpg",
          "longitude":"-3.1806653738021850",
@@ -1006,6 +1084,7 @@
       },
       {
          "abbreviation":"0555",
+         "computers":"",
          "name":"Thomson's Land",
          "image":"default.jpg",
          "longitude":"-3.1800457835197450",
@@ -1019,6 +1098,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Moray House Reception \/ Old Moray House",
          "image":"default.jpg",
          "longitude":"-3.1804883480072020",
@@ -1032,6 +1112,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Roslin Institute",
          "image":"default.jpg",
          "longitude":"-3.1981158256530760",
@@ -1045,6 +1126,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Procurement Office incorporating Printing Services",
          "image":"default.jpg",
          "longitude":"-3.1851929426193237",
@@ -1058,6 +1140,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"MacKenzie Medical Centre",
          "image":"default.jpg",
          "longitude":"-3.1835299730300903",
@@ -1072,6 +1155,7 @@
       },
       {
          "abbreviation":"0322",
+         "computers":"",
          "name":"Roxburgh Street (1)",
          "image":"default.jpg",
          "longitude":"-3.1833046674728394",
@@ -1085,6 +1169,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Western General Hospital",
          "image":"default.jpg",
          "longitude":"-3.2348728179931640",
@@ -1099,6 +1184,7 @@
       },
       {
          "abbreviation":"0271-0272",
+         "computers":"",
          "name":"Hope Park Square",
          "image":"default.jpg",
          "longitude":"-3.1860485672950745",
@@ -1112,6 +1198,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Careers Service (King's Buildings)",
          "image":"default.jpg",
          "longitude":"-3.1792491674423218",
@@ -1125,6 +1212,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"C.H. Waddington Building",
          "image":"default.jpg",
          "longitude":"-3.1700813770294190",
@@ -1138,6 +1226,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Labyrinth",
          "image":"default.jpg",
          "longitude":"-3.1895273923873900",
@@ -1151,6 +1240,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Institute for Academic Development",
          "image":"default.jpg",
          "longitude":"-3.1821757704892660",
@@ -1164,6 +1254,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Hospital for Small Animals",
          "image":"default.jpg",
          "longitude":"-3.2022893428802490",
@@ -1177,6 +1268,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Old Faculty Office",
          "image":"default.jpg",
          "longitude":"-3.1785035133361816",
@@ -1190,6 +1282,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Infirmary Street (9-11)",
          "image":"default.jpg",
          "longitude":"-3.1853377819061280",
@@ -1203,6 +1296,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Bristo Square (7)",
          "image":"default.jpg",
          "longitude":"-3.1881058216094970",
@@ -1216,6 +1310,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"John McIntyre Conference Centre",
          "image":"default.jpg",
          "longitude":"-3.1700706481933594",
@@ -1229,6 +1324,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Old Surgeons' Hall",
          "image":"default.jpg",
          "longitude":"-3.1831464171409607",
@@ -1242,6 +1338,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Old Infirmary (Geography)",
          "image":"default.jpg",
          "longitude":"-3.1837606430053710",
@@ -1255,6 +1352,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Drummond Library (GeoSciences)",
          "image":"default.jpg",
          "longitude":"-3.1829774379730225",
@@ -1268,6 +1366,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Chisholm House",
          "image":"default.jpg",
          "longitude":"-3.1830418109893800",
@@ -1281,6 +1380,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Drummond Street Annex",
          "image":"default.jpg",
          "longitude":"-3.1829130649566650",
@@ -1294,6 +1394,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Evolution House",
          "image":"default.jpg",
          "longitude":"-3.2005995512008667",
@@ -1307,6 +1408,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Hunter Building",
          "image":"default.jpg",
          "longitude":"-3.1980729103088380",
@@ -1320,6 +1422,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"ECA Main Building",
          "image":"default.jpg",
          "longitude":"-3.1990599632263184",
@@ -1333,6 +1436,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"William Robertson Wing",
          "image":"default.jpg",
          "longitude":"-3.1907665729522705",
@@ -1346,6 +1450,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Economics, School of",
          "image":"default.jpg",
          "longitude":"-3.1860029697418213",
@@ -1359,6 +1464,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Scottish Centre for Regenerative Medicine",
          "image":"default.jpg",
          "longitude":"-3.1307816505432130",
@@ -1372,6 +1478,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Clinical Research Imaging Centre",
          "image":"default.jpg",
          "longitude":"-3.1395041942596436",
@@ -1385,6 +1492,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Riddell-Swan Veterinary Cancer Centre",
          "image":"default.jpg",
          "longitude":"-3.2020211219787598",
@@ -1398,6 +1506,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Equine Hospital",
          "image":"default.jpg",
          "longitude":"-3.1992530822753906",
@@ -1411,6 +1520,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Easter Bush Campus Service Centre",
          "image":"default.jpg",
          "longitude":"-3.1989848613739014",
@@ -1424,6 +1534,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Sir Alexander Robertson Building",
          "image":"default.jpg",
          "longitude":"-3.1983304023742676",
@@ -1437,6 +1548,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Farm Animal Practice and Equine Clinical Unit",
          "image":"default.jpg",
          "longitude":"-3.1991994380950928",
@@ -1450,6 +1562,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Farm Animal Hospital",
          "image":"default.jpg",
          "longitude":"-3.1998538970947266",
@@ -1463,6 +1576,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Scintigraphy and Exotic Animal Unit",
          "image":"default.jpg",
          "longitude":"-3.1989204883575440",
@@ -1476,6 +1590,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Biomedical Research Facility",
          "image":"default.jpg",
          "longitude":"-3.2382416725158690",
@@ -1489,6 +1604,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"CJD Surveillance Unit",
          "image":"default.jpg",
          "longitude":"-3.2370507717132570",
@@ -1502,6 +1618,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Wellcome Trust Clinical Research Facility",
          "image":"default.jpg",
          "longitude":"-3.2354736328125000",
@@ -1515,6 +1632,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Clinical Neurosciences",
          "image":"default.jpg",
          "longitude":"-3.2371473312377930",
@@ -1528,6 +1646,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Bramwell Dott Building",
          "image":"default.jpg",
          "longitude":"-3.2368093729019165",
@@ -1541,6 +1660,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Division of Pathology Laboratories",
          "image":"default.jpg",
          "longitude":"-3.2339179515838623",
@@ -1554,6 +1674,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"IGMM Complex",
          "image":"default.jpg",
          "longitude":"-3.2323193550109863",
@@ -1567,6 +1688,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Noreen and Kenneth Murray Library",
          "image":"default.jpg",
          "longitude":"-3.1750380992889404",
@@ -1580,6 +1702,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Anatomical Museum",
          "image":"default.jpg",
          "longitude":"-3.1900537014010410",
@@ -1593,6 +1716,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Reid Museum of Musical Instruments",
          "image":"default.jpg",
          "longitude":"-3.1891578435900670",
@@ -1606,6 +1730,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Law and Europa Library",
          "image":"default.jpg",
          "longitude":"-3.1871294975280760",
@@ -1619,6 +1744,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Moray House Library",
          "image":"default.jpg",
          "longitude":"-3.1807780265808105",
@@ -1632,6 +1758,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"New College Library",
          "image":"default.jpg",
          "longitude":"-3.1952404975891113",
@@ -1645,6 +1772,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Main Library",
          "image":"default.jpg",
          "longitude":"-3.1888461112976074",
@@ -1658,6 +1786,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Noreen and Kenneth Murray Library",
          "image":"default.jpg",
          "longitude":"-3.1750273704528810",
@@ -1671,6 +1800,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Darwin Learning & Teaching Cluster",
          "image":"default.jpg",
          "longitude":"-3.1713849306106567",
@@ -1717,6 +1847,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"King's House Building",
          "image":"default.jpg",
          "longitude":"-3.1749415397644043",
@@ -1807,6 +1938,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Mayfield, after Rankin Drive",
          "image":"default.jpg",
          "longitude":"-3.1725382804870605",
@@ -1820,6 +1952,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Mayfield, before Rankin Drive",
          "image":"default.jpg",
          "longitude":"-3.1726455688476562",
@@ -1833,6 +1966,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Mayfield, after Mayfield Road",
          "image":"default.jpg",
          "longitude":"-3.1740376353263855",
@@ -1846,6 +1980,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Mayfield, before Observatory Road",
          "image":"default.jpg",
          "longitude":"-3.1798875331878660",
@@ -1859,6 +1994,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Newington, at Kings Hall",
          "image":"default.jpg",
          "longitude":"-3.1806921958923340",
@@ -1872,6 +2008,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"South Side, opp Meadow Lane",
          "image":"default.jpg",
          "longitude":"-3.1845009326934814",
@@ -1885,6 +2022,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"South Side, before Marshall Street",
          "image":"default.jpg",
          "longitude":"-3.1853377819061280",
@@ -1898,6 +2036,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"South Side, Potterow (NW-bound)",
          "image":"default.jpg",
          "longitude":"-3.1861424446105957",
@@ -1911,6 +2050,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"South Side, Potterrow (SE-bound)",
          "image":"default.jpg",
          "longitude":"-3.1867969036102295",
@@ -1924,6 +2064,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Canongate, after Gullan's Close",
          "image":"default.jpg",
          "longitude":"-3.1811615824699400",
@@ -1937,6 +2078,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Student Recruitment and Admissions",
          "image":"default.jpg",
          "longitude":"-3.1854933500289917",
@@ -1950,6 +2092,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square (16-22)",
          "image":"default.jpg",
          "longitude":"-3.1905305385589600",
@@ -1963,6 +2106,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square (2-15)",
          "image":"default.jpg",
          "longitude":"-3.1889963150024414",
@@ -1976,6 +2120,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square (55-60)",
          "image":"default.jpg",
          "longitude":"-3.1872904300689697",
@@ -1989,6 +2134,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square (1)",
          "image":"default.jpg",
          "longitude":"-3.1880736351013184",
@@ -2002,6 +2148,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"FloWave Ocean Energy Research Facility",
          "image":"default.jpg",
          "longitude":"-3.1787583231925964",
@@ -2015,6 +2162,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Edinburgh Dental Institute",
          "image":"default.jpg",
          "longitude":"-3.1972124129561053",
@@ -2028,6 +2176,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Medical Education Centre",
          "image":"default.jpg",
          "longitude":"-3.2344329357147217",
@@ -2074,6 +2223,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Edinburgh College of Art Library",
          "image":"default.jpg",
          "longitude":"-3.2006961107254030",
@@ -2087,6 +2237,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Arcadia Nursery",
          "image":"default.jpg",
          "longitude":"-3.1770189106464386",
@@ -2100,6 +2251,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Christina Miller Building",
          "image":"default.jpg",
          "longitude":"-3.1762893497943880",
@@ -2113,6 +2265,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"St Leonard's Land",
          "image":"default.jpg",
          "longitude":"-3.1796447932720184",
@@ -2126,6 +2279,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Forrest Hill Building",
          "image":"default.jpg",
          "longitude":"-3.1919199228286743",
@@ -2139,6 +2293,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Sport and Exercise, Centre for",
          "image":"default.jpg",
          "longitude":"-3.1814534553996054",
@@ -2152,6 +2307,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"High School Yards",
          "image":"default.jpg",
          "longitude":"-3.1839591264724730",
@@ -2165,6 +2321,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"North-East Studio Building",
          "image":"default.jpg",
          "longitude":"-3.1977570356684737",
@@ -2178,6 +2335,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Wilkie Building",
          "image":"default.jpg",
          "longitude":"-3.1891815438893900",
@@ -2191,6 +2349,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"George Square (27-29)",
          "image":"default.jpg",
          "longitude":"-3.1902951300253335",
@@ -2204,6 +2363,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Buccleuch Place (17-25)",
          "image":"default.jpg",
          "longitude":"-3.1878757776576094",
@@ -2217,6 +2377,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Buccleuch Place (14-16)",
          "image":"default.jpg",
          "longitude":"-3.1867445111493000",
@@ -2230,6 +2391,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Chaplaincy",
          "image":"default.jpg",
          "longitude":"-3.1882885248342063",
@@ -2243,6 +2405,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Lister Postgraduate Institute",
          "image":"default.jpg",
          "longitude":"-3.1843734387075530",
@@ -2256,6 +2419,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Old Kirk",
          "image":"default.jpg",
          "longitude":"-3.1805157959570350",
@@ -2269,6 +2433,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Outreach Centre",
          "image":"default.jpg",
          "longitude":"-3.1820768416037026",
@@ -2282,6 +2447,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Biospace",
          "image":"default.jpg",
          "longitude":"-3.1787515282849200",
@@ -2295,6 +2461,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"UK Biochar Research Centre",
          "image":"default.jpg",
          "longitude":"-3.1784296632031330",
@@ -2308,6 +2475,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Anne Rowling Regenerative Neurology Clinic",
          "image":"default.jpg",
          "longitude":"-3.1377825290019246",
@@ -2321,6 +2489,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Minto House",
          "image":"default.jpg",
          "longitude":"-3.1890824587026145",
@@ -2334,6 +2503,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Adam House",
          "image":"default.jpg",
          "longitude":"-3.1873882416402920",
@@ -2347,6 +2517,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Old College",
          "image":"default.jpg",
          "longitude":"-3.1864655617391690",
@@ -2360,6 +2531,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Institute for Advanced Studies in the Humanities",
          "image":"default.jpg",
          "longitude":"-3.1859871894175740",
@@ -2373,6 +2545,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Scottish Microelectronic Centre",
          "image":"default.jpg",
          "longitude":"-3.1778985858181840",
@@ -2386,6 +2559,7 @@
          ]
       },
       {
+         "computers":"",
          "name":"Argyle House",
          "image":"default.jpg",
          "longitude":"-3.2017106117564254",
