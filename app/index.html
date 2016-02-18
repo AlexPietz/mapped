@@ -37,7 +37,11 @@
 					};
 					array.push(marker);
 				};
-				$scope.goTo = function(x,y, id) { array[id].openPopup(); map.setView([x,y], 18);};
+				$scope.goTo = function(x,y, id) { array[id].openPopup(); map.setView([x,y], 18);
+				// $('html,body').animate({
+    //             scrollTop: $('.').offset().top 
+    //         }, 500); 
+				};
 			});
 		});
 	</script>
@@ -138,7 +142,7 @@
 		<div class="container" style="width:80%">
 			<div class="panel-group" id="accordion" >
 				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:searchT">
-					<div class="panel-heading">
+					<div class="panel-heading" id="panel-{{Building.id}} ">
 						<h2 class="panel-title">
               <b>
 							 <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{Building.id}}" ng-click="a=goTo(Building.latitude, Building.longitude, Building.id)">{{Building.name}} 
@@ -149,7 +153,7 @@
 					<div id="collapse{{Building.id}}" class="panel-collapse collapse ">
 						<div class="panel-body">
 							<div class="col-xs-8">
-							 <img src= "images/buildings/{{Building.image}}"  class = "img-thumbnail"> 
+							 <img src= "images/buildings/{{Building.image}}" height="100"  class = "img-thumbnail"> 
 							</div>
               <div class="col-xs-4">
 							   <b>Address:</b>
