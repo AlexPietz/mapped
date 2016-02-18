@@ -4,7 +4,7 @@
          "computers":"",
          "description":"",
          "name":"New College",
-         "image":"default.jpg",
+         "image":"new_college.jpg",
          "longitude":"-3.1952404975891113",
          "latitude":"55.9496683956151100",
          "address":"1 Mound Place  Edinburgh EH1 2LU",
@@ -2340,7 +2340,7 @@
          "longitude":"-3.1972124129561053",
          "latitude":"55.9444931361609100",
          "address":"4th Floor, Lauriston Building Lauriston Place Edinburgh EH3 9HA",
-         "campuses":[
+         "  ":[
             "central"
          ],
          "categories":[
@@ -2459,8 +2459,8 @@
          "computers":"YES",
          "description":"",
          "name":"Forrest Hill Building",
-         "floor": ["floor 1.png","floor 3.png", "floor 4.png"],
-         "image":"default.jpg",
+         "floor": ["floor 1.png","floor 2.png", "floor 3.png","floor 4.png"],
+         "image":"forrest_hill.jpg",
          "longitude":"-3.1919199228286743",
          "latitude":"55.9460157848478160",
          "address":"5 Forrest Hill  Edinburgh EH1 2QL",
