@@ -236,13 +236,17 @@
       {
          "abbreviation":"0201",
          "image":"appleton.jpg",
-         "computers":"",
+         "computers":"YES",
+         "floor":["floor 1.png","floor 3.png", "floor 4.png", "floor 5.png", "floor 6.png", "floor 7.png", "floor 8.png"],
+         "description":["APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square.Appleton Tower comprises of a lower ground, ground, and ten floors incorporating teaching areas and plant rooms. Wherever possible the University has installed access ramps and access lifts to help mobility-impaired building users gain access to our buildings. mergency evacuation procedures for wheelchair users are in place in the event of fire; but all persons with a disability are required to ensure the Personal Evacuation Escape Plan is in place and suitable for their needs. There is no fire evacuation lift at this time."],
+		    "floors":["floor0.jpg","floor1.jpg"],
+         "computers":"YES",
          "description":"APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square ",
          "name":"Appleton Tower",
          "longitude":"-3.1870651245117188",
          "latitude":"55.9444416917442200",
          "address":"11 Crichton Street  Edinburgh EH8 9LE",
-		 "facilities":["52 usable computers", "Cafeteria", "8 lecture theathres"],
+		    "facilities":["52 usable computers", "Cafeteria", "8 lecture theathres"],
          "campuses":[
             "central"
          ],
@@ -306,6 +310,7 @@
          "longitude":"-3.1866574287414550",
          "latitude":"55.9432040010911400",
          "address":"George Square  Edinburgh EH8 9JX",
+		 "silentstudy":"",
          "campuses":[
             "central"
          ],
@@ -321,6 +326,7 @@
          "longitude":"-3.1886690855026245",
          "latitude":"55.9427804134090100",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
+		 "silentstudy":"",
          "campuses":[
             "central"
          ],
@@ -374,13 +380,15 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
          "name":"Main University Library",
          "image":"default.jpg",
          "longitude":"-3.1891465187072754",
          "latitude":"55.9427113171064800",
          "address":"30 George Square  Edinburgh EH8 9LJ",
+		 "silentstudy":"YES",
+		 "quietstudy":"YES",
          "campuses":[
             "central"
          ],
@@ -1879,6 +1887,7 @@
       {
          "computers":"",
          "description":"",
+		 "quietstudy":"YES",
          "name":"New College Library",
          "image":"default.jpg",
          "longitude":"-3.1952404975891113",
@@ -2280,7 +2289,7 @@
       },
       {
          "description":"",
-         "computers":"YES",
+         "computers":"",
          "name":"George Square (55-60)",
          "image":"default.jpg",
          "longitude":"-3.1872904300689697",
@@ -2447,7 +2456,7 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
          "name":"Forrest Hill Building",
          "image":"default.jpg",

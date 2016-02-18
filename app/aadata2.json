@@ -1,0 +1,15 @@
+[
+      {
+         "abbreviation":"0201",
+         "image":"appleton.jpg",
+         "computers":"",
+         "floor":["floor 1.png","floor 3.png", "floor 4.png", "floor 5.png", "floor 6.png", "floor 7.png", "floor 8.png"],
+         "name":"Appleton Tower",
+         "longitude":"-3.1870651245117188",
+         "latitude":"55.9444416917442200",
+         "address":"11 Crichton Street  Edinburgh EH8 9LE",
+         "campuses":[
+            "central"
+         ]
+     }
+]
