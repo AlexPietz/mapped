@@ -155,10 +155,12 @@
 							   <b>Address:</b>
                  <br>{{Building.address}}<br>
 							   <center>
-							     <button type="button" class="btn btn-info center-block btn-space">Info</button>
-							     <button type="button" class="btn btn-info center-block btn-space"  data-toggle="modal" data-target="#{{Building.id}}">Floor Plan~
+							     <button type="button" class="btn btn-info center-block btn-space"  data-toggle="modal" data-target="#IF{{Building.id}}">Info
                    </button>
-							     <button type="button" class="btn btn-danger center-block btn-space">Health & Safety</button>
+							     <button type="button" class="btn btn-info center-block btn-space"  data-toggle="modal" data-target="#FL{{Building.id}}">Floor Plan
+                   </button>
+							     <button type="button" class="btn btn-danger center-block btn-space"  data-toggle="modal" data-target="#F{{Building.id}}">Health & Safety
+                   </button>
 							   </center>
 							</div>
 						</div>
@@ -166,28 +168,65 @@
 				</div>
 			</div>
 		</div>
-    <!-- moa-->
-     <div class="modal fade" id="{{Building.id}}" role="dialog"  ng-repeat="Building in Buildings">
-    <div class="modal-dialog modal-lg">
+      <!--Modal intial Floor plan-->
+    <div class="modal fade" id="FL{{Building.id}}" role="dialog"  ng-repeat="Building in Buildings">
+      <div class="modal-dialog modal-lg">
     
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Floor Plan</h4>
+        <!-- Modal content Floorplan-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Floor Plan</h4>
+          </div>
+          <div class="modal-body">
+            <img src="images/{{Building.image}}">
+            {{Building.address}}
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
         </div>
-        <div class="modal-body">
-          <img src="images/{{Building.image}}">
-          {{Building.address}}
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div>
-      </div>
-      
     </div>
   </div>
-	</div>
+        <!--Modal intial info-->
+    <div class="modal fade" id="IF{{Building.id}}" role="dialog"  ng-repeat="Building in Buildings">
+      <div class="modal-dialog modal-lg">
+    
+        <!-- Modal content info-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Info/h4>
+          </div>
+          <div class="modal-body">
+          <p>The description and shit goes in here</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+    </div>
+  </div>
+        <!--Modal intial Fire-->
+      <div class="modal fade" id="F{{Building.id}}" role="dialog"  ng-repeat="Building in Buildings">
+      <div class="modal-dialog modal-lg">
+    
+        <!-- Modal content fire-->
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">Health & saftey</h4>
+          </div>
+          <div class="modal-body">
+          <p>the building is on fire</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+    </div>
+  </div>
+  </div>
 </div>
 </div>
 </div>
