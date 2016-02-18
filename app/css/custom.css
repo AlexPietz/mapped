@@ -3,6 +3,11 @@
 
 }
 
+.about{
+  right: 15px;
+  position: absolute;
+  top: 15px;
+}
 .img-thumbnail{
     height:200px !important;
 }
