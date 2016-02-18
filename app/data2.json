@@ -236,8 +236,9 @@
       {
          "abbreviation":"0201",
          "image":"appleton.jpg",
-         "computers":"",
-         "description":"APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square ",
+         "computers":"YES",
+         "floor":["floor 1.png","floor 3.png", "floor 4.png", "floor 5.png", "floor 6.png", "floor 7.png", "floor 8.png"],
+         "description":["APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square.Appleton Tower comprises of a lower ground, ground, and ten floors incorporating teaching areas and plant rooms. Wherever possible the University has installed access ramps and access lifts to help mobility-impaired building users gain access to our buildings. mergency evacuation procedures for wheelchair users are in place in the event of fire; but all persons with a disability are required to ensure the Personal Evacuation Escape Plan is in place and suitable for their needs. There is no fire evacuation lift at this time."],
          "name":"Appleton Tower",
          "longitude":"-3.1870651245117188",
          "latitude":"55.9444416917442200",
