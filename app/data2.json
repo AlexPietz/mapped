@@ -226,6 +226,7 @@
          "longitude":"-3.1870651245117188",
          "latitude":"55.9444416917442200",
          "address":"11 Crichton Street  Edinburgh EH8 9LE",
+		 "facilities":["52 usable computers", "Cafeteria", "8 lecture theathres"],
          "campuses":[
             "central"
          ],
