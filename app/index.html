@@ -22,7 +22,6 @@
 		thisApp.controller('BuildingCtrl', function ($scope, $http){
 			$http.get('data2.json').success(function(data2) {
 				$scope.Buildings = data2;
-        $scope.Floors = Buildings.floor;
 				var array = [];
 				for (var i =0; i< data2.length; i++) {
 					data2[i].id = i;
@@ -93,10 +92,10 @@
 								<label><input type="checkbox" value="" ng-model="checkboxComputers" ng-true-value="'YES'" ng-false-value="">Computers</label>
 							</div>
 							<div class="checkbox">
-								<label><input type="checkbox" value="">Silent Study</label>
+								<label><input type="checkbox" value="" ng-model="checkboxSilentStudy" ng-true-value="'YES'" ng-false-value="">Silent Study</label>
 							</div>
 							<div class="checkbox">
-								<label><input type="checkbox" value="">???</label>
+								<label><input type="checkbox" value="" ng-model="checkboxQuietStudy" ng-true-value="'YES'" ng-false-value="">Quiet Study</label>
 							</div>
 						</div>
 					</div>
@@ -142,7 +141,7 @@
 		<div ng-controller="BuildingCtrl">
 		<div class="container" style="width:80%">
 			<div class="panel-group" id="accordion" >
-				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:{computers:checkboxComputers, name:searchT}">
+				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:{silentstudy:checkboxSilentStudy, quietstudy:checkboxQuietStudy, computers:checkboxComputers, name:searchT}">
 					<div class="panel-heading" id="panel-{{Building.id}} ">
 						<h2 class="panel-title">
               <b>
