@@ -28,15 +28,25 @@
 
 					if (data2[i].categories[0] == "Cafeterias") {
 						marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: cafeIcon, zIndexOffset:100}).addTo(map);
+				  } else if (data2[i].categories[0] == "Libraries") {
+						marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: bookIcon, opacity: 0.75}).addTo(map);
 				  } else {
-				  	marker = L.marker([data2[i].latitude, data2[i].longitude],{opacity: 0.75}).addTo(map);
+				  	marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: uniIcon, opacity: 0.75}).addTo(map);
 					}
 					marker.bindPopup("I am "+data2[i].name); 
-					if (data2[i].campuses[0] == "central") {
+					var campus = data2[i].campuses[0];
+					if (campus == "central") {
 						marker.addTo(central); 
-					};
+					} else if (campus == "King's Buildings") {
+						marker.addTo(kings); 
+					} else if (campus == "Little France") {
+						marker.addTo(lfrance); 
+					} else if (campus == "Western General") {
+						marker.addTo(wgeneral); 
+					} else
 					array.push(marker);
 				};
+
 				$scope.goTo = function(x,y, id) { array[id].openPopup(); map.setView([x,y], 18);
 				// $('html,body').animate({
     //             scrollTop: $('.').offset().top 
@@ -118,16 +128,43 @@
 			    shadowAnchor: [0, 0],  // the same for the shadow
 			    popupAnchor:  [0, -38] // point from which the popup should open relative to the iconAnchor
 			});
-			var map = L.map('map').setView([55.9435284480973960,-3.1886315345764160], 15); //initialize map
-			var central = new L.LayerGroup();
-			map.scrollWheelZoom.disable();
-			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // create the tile layer with correct attribution
-				//attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-			}).addTo(map);
-			var overlays = {
-				"Central Area": central
-			};
+			var uniIcon = L.icon({
+			    iconUrl: 'images/university.png',
+			    shadowUrl: 'images/cafe.png',
 
+			    iconSize:     [32, 37], // size of the icon
+			    shadowSize:   [0, 0], // size of the shadow
+			    iconAnchor:   [16,35], // point of the icon which will correspond to marker's location
+			    shadowAnchor: [0, 0],  // the same for the shadow
+			    popupAnchor:  [0, -38] // point from which the popup should open relative to the iconAnchor
+			});
+			var bookIcon = L.icon({
+			    iconUrl: 'images/book.png',
+			    shadowUrl: 'images/cafe.png',
+
+			    iconSize:     [32, 37], // size of the icon
+			    shadowSize:   [0, 0], // size of the shadow
+			    iconAnchor:   [16,35], // point of the icon which will correspond to marker's location
+			    shadowAnchor: [0, 0],  // the same for the shadow
+			    popupAnchor:  [0, -38] // point from which the popup should open relative to the iconAnchor
+			});
+			var central = new L.LayerGroup();
+			var kings = new L.LayerGroup();
+			var lfrance = new L.LayerGroup();
+			var wgeneral = new L.LayerGroup();
+
+			var base = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // create the tile layer with correct attribution
+				//attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+
+			});
+			var overlays = {
+				"Central Area": central,
+				"King's Buildings": kings,
+				"Little France": lfrance,
+				"Western General": wgeneral
+			};
+			var map = L.map('map', {layers: [base, central, kings, lfrance, wgeneral]}).setView([55.9435284480973960,-3.1886315345764160], 15); //initialize map
+			map.scrollWheelZoom.disable();
 			L.control.layers(null,overlays).addTo(map);
 		</script>
 		<!-- Map END--> 
