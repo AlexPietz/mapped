@@ -1,0 +1,58 @@
+<DOCTYPE! html>
+
+<html>
+<head>
+<style>
+h1 {
+   text-align: center;
+   color:red;
+}
+p {
+    text-align: center;
+    color:red;
+}
+hotmail {
+
+   margin-left: auto;
+   margin-right: auto;
+}
+
+</style>
+<h1> keep on </h1>
+<p id = "badman"> "basement" </p>
+</head>
+<body>
+<p><img id = "hotmail"   src = "image1.png" alt="Mountain View" align = "middle" style="width:75%;height:75%;"></p>
+<p></p>
+<button type = "button" onclick="up()">Up level</button>
+<button type = "button" onclick="down()">Down level</button>
+<script>
+    var where = 0;
+    var images = ['image1.png','floor 1.png', 'floor 2.png', 'floor 3.png', 'floor 4.png', 'floor 5.png', 'floor 6.png', 'floor 7.png', 'floor 8.png', 'floor 9.png'];
+
+function up(){
+    var x =images.length;
+    if(where == x-1){
+    alert("Can not go up anymore no more floors!");}else{
+
+    where =  where+1
+    var image = document.getElementById('hotmail');
+    document.getElementById('badman').innerHTML= x;
+    image.src = images[where];
+}
+}
+function down(){
+    var x =images.length;
+    if(where == 0){
+    alert("Can not go down anymore no more floors!");}else{
+
+    where =  where-1
+    var image = document.getElementById('hotmail');
+    document.getElementById('badman').innerHTML= x;
+    image.src = images[where];
+}
+}
+</script>
+
+</body>
+</html>
