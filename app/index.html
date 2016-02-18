@@ -127,7 +127,8 @@
                  <br>{{Building.address}}<br>
 							   <center>
 							     <button type="button" class="btn btn-info center-block btn-space">Info</button>
-							     <button type="button" class="btn btn-info center-block btn-space" data-toggle="modal" data-target="#myCat">Floor Plan</button>
+							     <button type="button" class="btn btn-info center-block btn-space"  data-toggle="modal" data-target="#{{Building.id}}">Floor Plan~
+                   </button>
 							     <button type="button" class="btn btn-danger center-block btn-space">Health & Safety</button>
 							   </center>
 							</div>
@@ -136,9 +137,8 @@
 				</div>
 			</div>
 		</div>
-	</div>
-   <!-- Modal -->
-  <div class="modal fade" id="myCat" role="dialog">
+    <!-- moa-->
+     <div class="modal fade" id="{{Building.id}}" role="dialog"  ng-repeat="Building in Buildings">
     <div class="modal-dialog modal-lg">
     
       <!-- Modal content-->
@@ -148,7 +148,8 @@
           <h4 class="modal-title">Floor Plan</h4>
         </div>
         <div class="modal-body">
-          <p>Some crap to go in here maybe pictures .</p>
+          <img src="images/{{Building.image}}">
+          {{Building.address}}
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -157,7 +158,7 @@
       
     </div>
   </div>
-  
+	</div>
 </div>
 </div>
 </div>

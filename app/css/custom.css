@@ -1,5 +1,7 @@
 
-#map { height: 300px; }
+#map { height: 300px; 
+
+}
 
 
 #custom-search-input{
@@ -74,7 +76,7 @@
 
 #map {
     position: relative;
-    z-index: 9999;
+    z-index: 1;
 }
 .panel {
     position: relative
