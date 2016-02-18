@@ -2459,7 +2459,6 @@
          "computers":"YES",
          "description":"",
          "name":"Forrest Hill Building",
-         "floor": ["floor 1.png","floor 3.png", "floor 4.png"],
          "image":"default.jpg",
          "longitude":"-3.1919199228286743",
          "latitude":"55.9460157848478160",
