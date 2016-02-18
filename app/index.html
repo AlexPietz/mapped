@@ -22,11 +22,16 @@
 		thisApp.controller('BuildingCtrl', function ($scope, $http){
 			$http.get('data2.json').success(function(data2) {
 				$scope.Buildings = data2;
-				console.log(data2);
-			for (var i =0; i< data2.length; i++) {
-				data2[i].id = i;
+				for (var i =0; i< data2.length; i++) {
+					data2[i].id = i;
+					console.log(data2[i].campuses[0])
+					marker = L.marker([data2[i].latitude, data2[i].longitude],{opacity: 0.5}).addTo(map);
+					marker.bindPopup("I am "+data2[i].name); 
+					if (data2[i].campuses[0] == "central") {
+					marker.addTo(central); 
 				};
-			$scope.addmarker = function(x,y, name) { var marker = L.marker([x, y]).addTo(map); marker.bindPopup("I am "+name).openPopup(); map.setView([x,y], 18);};
+				};
+				$scope.addmarker = function(x,y, name) { marker.openPopup(); map.setView([x,y], 18);};
 			});
 		});
 	</script>
@@ -92,10 +97,16 @@
 		<!-- Map START--> 
 		<div id="map" class="img-responsive" data-spy="affix" data-offset-top="250"> </div>
 		<script>  var map = L.map('map').setView([55.943,-3.18], 13); //initialize map
+						var central = new L.LayerGroup();
 			map.scrollWheelZoom.disable();
 			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // create the tile layer with correct attribution
 				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 			}).addTo(map);
+			var overlays = {
+				"Central Area": central
+			};
+
+			L.control.layers(null,overlays).addTo(map);
 		</script>
 		<!-- Map END--> 
 

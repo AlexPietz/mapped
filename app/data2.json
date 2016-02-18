@@ -7,7 +7,7 @@
          "latitude":"55.9496683956151100",
          "address":"1 Mound Place  Edinburgh EH1 2LU",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -34,7 +34,7 @@
          "latitude":"55.9488904424293240",
          "address":"Niddry Street Cowgate Edinburgh EH1 1NQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -47,7 +47,7 @@
          "latitude":"55.9486009337296800",
          "address":"High School Yards Infirmary Street Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -60,7 +60,7 @@
          "latitude":"55.9427473673666640",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -74,7 +74,7 @@
          "latitude":"55.9461119105979900",
          "address":"12 Nicolson Square  Edinburgh EH8 9DF",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -88,7 +88,7 @@
          "latitude":"55.9461719890707060",
          "address":"5\/2 Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -101,7 +101,7 @@
          "latitude":"55.9431078681228900",
          "address":"University of Edinburgh Business School 29 Buccleuch Place Edinburgh EH8 9JS",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -115,7 +115,7 @@
          "latitude":"55.9463762551806900",
          "address":"11b Bristo Place Edinburgh EH1 1EZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -129,7 +129,7 @@
          "latitude":"55.9452347542822000",
          "address":"Teviot Place Edinburgh EH8 9AG",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -143,7 +143,7 @@
          "latitude":"55.9453789457260800",
          "address":"Teviot Place Edinburgh EH8 9AG",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -156,7 +156,7 @@
          "latitude":"55.9448983054919800",
          "address":"Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -170,7 +170,7 @@
          "latitude":"55.9449583858474800",
          "address":"Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -184,7 +184,7 @@
          "latitude":"55.9442794724061900",
          "address":"George Square  Edinburgh EH8 9XD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -197,7 +197,7 @@
          "latitude":"55.9431904824069100",
          "address":"33 Buccluech Place  Edinburgh EH8 9JT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -211,7 +211,7 @@
          "latitude":"55.9444416917442200",
          "address":"11 Crichton Street  Edinburgh EH8 9LE",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -224,7 +224,7 @@
          "latitude":"55.9439970889746000",
          "address":"55-56 George Square  Edinburgh EH8 9JU",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -238,7 +238,7 @@
          "latitude":"55.9438408759789600",
          "address":"50 George Square  Edinburgh EH8 9LH",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -252,7 +252,7 @@
          "latitude":"55.9435644975969700",
          "address":"George Square  Edinburgh EH8 9LX",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -266,7 +266,7 @@
          "latitude":"55.9432040010911400",
          "address":"George Square  Edinburgh EH8 9JX",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -279,20 +279,20 @@
          "latitude":"55.9427804134090100",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
          ]
       },
       {
-         "name":"Careers Service (Central Area)",
+         "name":"Careers Service (central)",
          "image":"default.jpg",
          "longitude":"-3.1894576549530030",
          "latitude":"55.9426602458471200",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -305,7 +305,7 @@
          "latitude":"55.9501339585784900",
          "address":"Paterson's Land Holyrood Road Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -318,7 +318,7 @@
          "latitude":"55.9424709811810700",
          "address":"  Edinburgh ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -331,7 +331,7 @@
          "latitude":"55.9427113171064800",
          "address":"30 George Square  Edinburgh EH8 9LJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -345,7 +345,7 @@
          "latitude":"55.9428795513669100",
          "address":"George Square  Edinburgh EH8 9LH",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -688,7 +688,7 @@
          "latitude":"55.9478375275095800",
          "address":"Pleasance  Edinburgh EH8 9TJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -701,7 +701,7 @@
          "latitude":"55.9403791945471550",
          "address":"18 Holyrood Park Road Edinburgh EH16 5AY",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -715,7 +715,7 @@
          "latitude":"55.9374401075255800",
          "address":"1 Marchhall Crescent Edinburgh EH16 5HP",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -728,7 +728,7 @@
          "latitude":"55.9469785335416740",
          "address":" South College Street Edinburgh EH8 9AA",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -741,7 +741,7 @@
          "latitude":"55.9435284480973960",
          "address":" George Square Edinburgh EH8 9JZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -754,7 +754,7 @@
          "latitude":"55.9446652929679200",
          "address":"10 Crichton Street Edinburgh EH8 9AB",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -767,7 +767,7 @@
          "latitude":"55.9451506423586760",
          "address":"3 Charles Street Edinburgh EH8 9AD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -820,7 +820,7 @@
          "latitude":"55.9441765328811300",
          "address":"15a George Square Edinburgh EH8 9LD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -833,7 +833,7 @@
          "latitude":"55.9450867572402600",
          "address":"2 Charles Street Edinburgh EH8 9AD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -846,7 +846,7 @@
          "latitude":"55.9471933088459540",
          "address":"Old College South Bridge Edinburgh EH8 9YL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -860,7 +860,7 @@
          "latitude":"55.9479614837865200",
          "address":"9-16 Chambers Street Edinburgh EH1 1HT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -887,7 +887,7 @@
          "latitude":"55.9428735430130360",
          "address":"Buccleuch Place Edinburgh ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -915,7 +915,7 @@
          "latitude":"55.9458580780220500",
          "address":"6 Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -942,7 +942,7 @@
          "latitude":"55.9501515797825100",
          "address":"Holyrood Road  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -956,7 +956,7 @@
          "latitude":"55.9509011741071300",
          "address":"186 -198 Canongate  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -970,7 +970,7 @@
          "latitude":"55.9508486118686200",
          "address":"Holyrood  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -984,7 +984,7 @@
          "latitude":"55.9506295517108000",
          "address":"Holyrood  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -998,7 +998,7 @@
          "latitude":"55.9504253080368300",
          "address":"Holyrood  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1012,7 +1012,7 @@
          "latitude":"55.9507765263969360",
          "address":"Holyrood  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1025,7 +1025,7 @@
          "latitude":"55.9510920995776900",
          "address":"Holyrood  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1051,7 +1051,7 @@
          "latitude":"55.9483617857850800",
          "address":"13 Infirmary Street  Edinburgh EH1 1LT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1064,7 +1064,7 @@
          "latitude":"55.9455922279190640",
          "address":"Levinson House 20 West Richmond Street Edinburgh EH8 9DX",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1078,7 +1078,7 @@
          "latitude":"55.9478807820734050",
          "address":"1 Roxburgh Street  Edinburgh EH8 9TA",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1105,7 +1105,7 @@
          "latitude":"55.9420752097637600",
          "address":"Hope Park Square  Edinburgh EH8 9NW",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -1144,7 +1144,7 @@
          "latitude":"55.9438284590276300",
          "address":"George Square  Edinburgh EH8 9JZ.",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1157,7 +1157,7 @@
          "latitude":"55.9498129209811600",
          "address":"1 Morgan Lane  Edinburgh EH8 8FP",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1196,7 +1196,7 @@
          "latitude":"55.9483347520127000",
          "address":"9-11 Infirmary Street EH1 1NP  ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1209,7 +1209,7 @@
          "latitude":"55.9456913586793300",
          "address":"7 Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1222,7 +1222,7 @@
          "latitude":"55.9400090542789300",
          "address":"18 Holyrood Park Road Edinburgh EH16 5AY",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1235,7 +1235,7 @@
          "latitude":"55.9484864412690800",
          "address":"Surgeons Square High School Yards Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1248,7 +1248,7 @@
          "latitude":"55.9482334252486500",
          "address":"1 Drummond Street  Edinburgh EH8 9XP",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1261,7 +1261,7 @@
          "latitude":"55.9486869905629200",
          "address":"High School Yards  Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1274,7 +1274,7 @@
          "latitude":"55.9488491914385600",
          "address":"1 Surgeons Square High School Yards Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1287,7 +1287,7 @@
          "latitude":"55.9482574553323400",
          "address":"1 Drummond Street Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1300,7 +1300,7 @@
          "latitude":"55.9460736605762700",
          "address":"78 Westport Edinburgh EH1 2LE",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1313,7 +1313,7 @@
          "latitude":"55.9451282124570850",
          "address":"Lauriston Place Edinburgh EH3 9DF",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1326,7 +1326,7 @@
          "latitude":"55.9458551741833600",
          "address":"Lauriston Place Edinburgh EH3 9DF",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1339,7 +1339,7 @@
          "latitude":"55.9450080521798600",
          "address":"Doorway 4 Teviot Place Edinburgh EH8 9AG",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1352,7 +1352,7 @@
          "latitude":"55.9431288972300800",
          "address":"30-31 Buccleuch Place  Edinburgh EH8 9JT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1586,7 +1586,7 @@
          "latitude":"55.9450908404547600",
          "address":"Doorway 3, Medical School Teviot Place Edinburgh EH8 9AG",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1599,7 +1599,7 @@
          "latitude":"55.9449286238358500",
          "address":"Reid Concert Hall Bristo Square Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1612,7 +1612,7 @@
          "latitude":"55.9476619053750600",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Libraries"
@@ -1625,7 +1625,7 @@
          "latitude":"55.9506025195216950",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Libraries"
@@ -1638,7 +1638,7 @@
          "latitude":"55.9495242201428600",
          "address":"   ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Libraries"
@@ -1651,7 +1651,7 @@
          "latitude":"55.9426872835810500",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Libraries"
@@ -1734,7 +1734,7 @@
          "latitude":"55.9427834175932800",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1745,7 +1745,7 @@
          "latitude":"55.9436486129654800",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1756,7 +1756,7 @@
          "latitude":"55.9493800441337540",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1767,7 +1767,7 @@
          "latitude":"55.9476979510270500",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1778,7 +1778,7 @@
          "latitude":"55.9450184661097500",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1789,7 +1789,7 @@
          "latitude":"55.9462320674501900",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1800,7 +1800,7 @@
          "latitude":"55.9429636682230500",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Cafeterias"
@@ -1865,7 +1865,7 @@
          "latitude":"55.9406984576726500",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1878,7 +1878,7 @@
          "latitude":"55.9431679512560000",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1891,7 +1891,7 @@
          "latitude":"55.9458475642108300",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1904,7 +1904,7 @@
          "latitude":"55.9444176592925600",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1917,7 +1917,7 @@
          "latitude":"55.9456072477475400",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1930,7 +1930,7 @@
          "latitude":"55.9494806670300300",
          "address":" ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Public Buses"
@@ -1943,7 +1943,7 @@
          "latitude":"55.9431919844831500",
          "address":"33 Buccleuch Place  Edinburgh EH8 9JT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1956,7 +1956,7 @@
          "latitude":"55.9434923985642300",
          "address":"16-22 George Square  Edinbrugh EH8 9LD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1969,7 +1969,7 @@
          "latitude":"55.9444476998548050",
          "address":"1-15 George Square  Edinburgh EH8 9JZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1982,7 +1982,7 @@
          "latitude":"55.9441773339558350",
          "address":"55-60 George Square  Edinburgh EH8 9JU",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -1995,7 +1995,7 @@
          "latitude":"55.9445678618707000",
          "address":"1 George Square  Edinburgh EH8 9JZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2021,7 +2021,7 @@
          "latitude":"55.9444931361609100",
          "address":"4th Floor, Lauriston Building Lauriston Place Edinburgh EH3 9HA",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2119,7 +2119,7 @@
          "latitude":"55.9494235973597600",
          "address":"Holyrood Road  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -2132,7 +2132,7 @@
          "latitude":"55.9460157848478160",
          "address":"5 Forrest Hill  Edinburgh EH1 2QL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -2145,7 +2145,7 @@
          "latitude":"55.9482471864297600",
          "address":"46 Pleasance  Edinburgh EH8 9TJ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2158,7 +2158,7 @@
          "latitude":"55.9486696690834200",
          "address":"  Edinburgh EH1 1LZ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2171,7 +2171,7 @@
          "latitude":"55.9459624149394800",
          "address":"Lauriston Place  Edinburgh EH3 9DF",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2184,7 +2184,7 @@
          "latitude":"55.9447400183455340",
          "address":"Medical School 22 - 23 Teviot Row Edinburgh EH8 9AG",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2197,7 +2197,7 @@
          "latitude":"55.9430755233431750",
          "address":"27-29 George Square  Edinburgh EH8 9LD",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -2210,7 +2210,7 @@
          "latitude":"55.9424656737581000",
          "address":"17-25 Buccleuch Place  Edinburgh EH8 9LN",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
@@ -2223,7 +2223,7 @@
          "latitude":"55.9426225932921140",
          "address":"14-16 Buccleuch Place  Edinburgh EH8 9LN",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2236,7 +2236,7 @@
          "latitude":"55.9462294139965200",
          "address":"1 Bristo Square  Edinburgh EH8 9AL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2249,7 +2249,7 @@
          "latitude":"55.9471766876073300",
          "address":"11 Hill Square  Edinburgh EH8 9DR",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2262,7 +2262,7 @@
          "latitude":"55.9497682168029700",
          "address":"37 Holyrood Rd  Edinburgh EH8 8AQ",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2275,7 +2275,7 @@
          "latitude":"55.9495309283313200",
          "address":"9C Holyrood Road  Edinburgh EH8 8FP",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2327,7 +2327,7 @@
          "latitude":"55.9477839098566900",
          "address":"20-22 Chambers Street  Edinburgh EH1 1HT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2340,7 +2340,7 @@
          "latitude":"55.9480778301324100",
          "address":"3 Chambers Street  Edinburgh EH1 1HT",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2353,7 +2353,7 @@
          "latitude":"55.9475371471338900",
          "address":"South Bridge  Edinburgh EH8 9YL",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2366,7 +2366,7 @@
          "latitude":"55.9421498800494850",
          "address":"Hope Park Square  Edinburgh EH8 9NW",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2379,7 +2379,7 @@
          "latitude":"55.9221375697679600",
          "address":"Alexander Crum Brown Road  Edinburgh EH9 3FF",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
             "Buildings"
@@ -2392,7 +2392,7 @@
          "latitude":"55.9467404269524100",
          "address":"3 Lady Lawson Street  Edinburgh EH3 9DR",
          "campuses":[
-            "Central area"
+            "central"
          ],
          "categories":[
 
