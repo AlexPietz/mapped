@@ -217,19 +217,19 @@
 				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:{silentstudy:checkboxSilentStudy, quietstudy:checkboxQuietStudy, computers:checkboxComputers, campuses:radioCampus, name:searchT}">
 					<div class="panel-heading" id="panel-{{Building.id}} ">
 						<h2 class="panel-title">
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD
               				<b>
 							 	<a data-toggle="collapse" data-parent="#accordion" href="#collapse{{Building.id}}" ng-click="a=goTo(Building.latitude, Building.longitude, Building.id)">{{Building.name}} 
                					</a>
 						  	</b>
             			</h2>
-=======
+======= -->
               <b>
 							 <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{Building.id}}" ng-click="goTo(Building.latitude, Building.longitude, Building.id)">{{Building.name}} 
                </a>
 						  </b>
             </h2>
->>>>>>> fb1e74944decd60a4981861f31e1698648ae2ef1
+<!-- >>>>>>> fb1e74944decd60a4981861f31e1698648ae2ef1 -->
 					</div>
 					<div id="collapse{{Building.id}}" class="panel-collapse collapse ">
 						<div class="panel-body">
