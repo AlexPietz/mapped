@@ -88,14 +88,45 @@
 							</span>
 						</div>
 						<div class="collapse" id="collapseDivOptions" ng-model="collapseState">
-							<div class="checkbox">
-								<label><input type="checkbox" value="" ng-model="checkboxComputers" ng-true-value="'YES'" ng-false-value="">Computers</label>
-							</div>
-							<div class="checkbox">
-								<label><input type="checkbox" value="" ng-model="checkboxSilentStudy" ng-true-value="'YES'" ng-false-value="">Silent Study</label>
-							</div>
-							<div class="checkbox">
-								<label><input type="checkbox" value="" ng-model="checkboxQuietStudy" ng-true-value="'YES'" ng-false-value="">Quiet Study</label>
+							<div class="container">
+								<div class="col-sm-2">
+								Includes:
+									<div class="checkbox">
+										<label><input type="checkbox" value="" ng-model="checkboxComputers" ng-true-value="'YES'" ng-false-value="">Computers</label>
+									</div>
+									<div class="checkbox">
+										<label><input type="checkbox" value="" ng-model="checkboxSilentStudy" ng-true-value="'YES'" ng-false-value="">Silent Study</label>
+									</div>
+									<div class="checkbox">
+										<label><input type="checkbox" value="" ng-model="checkboxQuietStudy" ng-true-value="'YES'" ng-false-value="">Quiet Study</label>
+									</div>
+								</div>
+								<div class="col-sm-2">
+									Campus:
+									<div class="radio">
+									  <label class="active"><input checked  type="radio" value="" ng-model="radioCampus" >Any</label>
+									</div>
+									 <div class="radio">
+									  <label><input type="radio" value="central" ng-model="radioCampus" >Central</label>
+									</div>
+									<div class="radio">
+									  <label><input type="radio" value="King's Buildings" ng-model="radioCampus" >King's Buildings</label>
+									</div>
+									
+									
+								</div>
+								<div class="col-sm-2">
+								<br>
+									<div class="radio">
+									  <label><input type="radio" value="Easter Bush" ng-model="radioCampus"  >Easter Bush</label>
+									</div>
+									<div class="radio">
+									  <label><input type="radio" value="Little France" name="optradio" ng-model="radioCampus" >Little France</label>
+									</div>
+									<div class="radio">
+									  <label><input type="radio" value="Western General" name="optradio" ng-model="radioCampus" >Western General</label>
+									</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -141,7 +172,7 @@
 		<div ng-controller="BuildingCtrl">
 		<div class="container" style="width:80%">
 			<div class="panel-group" id="accordion" >
-				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:{silentstudy:checkboxSilentStudy, quietstudy:checkboxQuietStudy, computers:checkboxComputers, name:searchT}">
+				<div class="panel panel-default" ng-repeat="Building in Buildings | filter:{silentstudy:checkboxSilentStudy, quietstudy:checkboxQuietStudy, computers:checkboxComputers, campuses:radioCampus, name:searchT}">
 					<div class="panel-heading" id="panel-{{Building.id}} ">
 						<h2 class="panel-title">
               <b>
