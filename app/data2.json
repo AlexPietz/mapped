@@ -236,8 +236,8 @@
       {
          "abbreviation":"0201",
          "image":"appleton.jpg",
-		 "floors":["floor0.jpg","floor1.jpg"]
-         "computers":"",
+		 "floors":["floor0.jpg","floor1.jpg"],
+         "computers":"YES",
          "description":"APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square ",
          "name":"Appleton Tower",
          "longitude":"-3.1870651245117188",
@@ -323,7 +323,7 @@
          "longitude":"-3.1886690855026245",
          "latitude":"55.9427804134090100",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
-		 "silentstudy":"YES",
+		 "silentstudy":"",
          "campuses":[
             "central"
          ],
@@ -377,13 +377,15 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
          "name":"Main University Library",
          "image":"default.jpg",
          "longitude":"-3.1891465187072754",
          "latitude":"55.9427113171064800",
          "address":"30 George Square  Edinburgh EH8 9LJ",
+		 "silentstudy":"YES",
+		 "quietstudy":"YES",
          "campuses":[
             "central"
          ],
@@ -1882,6 +1884,7 @@
       {
          "computers":"",
          "description":"",
+		 "quietstudy":"YES",
          "name":"New College Library",
          "image":"default.jpg",
          "longitude":"-3.1952404975891113",
@@ -2283,7 +2286,7 @@
       },
       {
          "description":"",
-         "computers":"YES",
+         "computers":"",
          "name":"George Square (55-60)",
          "image":"default.jpg",
          "longitude":"-3.1872904300689697",
@@ -2450,7 +2453,7 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
          "name":"Forrest Hill Building",
          "image":"default.jpg",
