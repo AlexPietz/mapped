@@ -2,7 +2,7 @@
       {
          "abbreviation":"0401",
          "name":"New College",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1952404975891113",
          "latitude":"55.9496683956151100",
          "address":"1 Mound Place  Edinburgh EH1 2LU",
@@ -15,7 +15,7 @@
       },
       {
          "name":"Mary Br\u00fcck building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1730116009930500",
          "latitude":"55.9231925860886040",
          "address":"Mayfield Road  Edinburgh EH9 3DW",
@@ -29,7 +29,7 @@
       {
          "abbreviation":"0301",
          "name":"St Cecilia's Hall",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1864374876022340",
          "latitude":"55.9488904424293240",
          "address":"Niddry Street Cowgate Edinburgh EH1 1NQ",
@@ -42,7 +42,7 @@
       },
       {
          "name":"Edinburgh Centre for Carbon Innovation",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1840935499349143",
          "latitude":"55.9486009337296800",
          "address":"High School Yards Infirmary Street Edinburgh EH1 1LZ",
@@ -55,7 +55,7 @@
       },
       {
          "name":"Student Disability Service",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1888836622238160",
          "latitude":"55.9427473673666640",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
@@ -69,7 +69,7 @@
       {
          "abbreviation":"0110",
          "name":"Alison House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1863999366760254",
          "latitude":"55.9461119105979900",
          "address":"12 Nicolson Square  Edinburgh EH8 9DF",
@@ -83,7 +83,7 @@
       {
          "abbreviation":"0108",
          "name":"Potterow",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1879234313964844",
          "latitude":"55.9461719890707060",
          "address":"5\/2 Bristo Square  Edinburgh EH8 9AL",
@@ -96,7 +96,7 @@
       },
       {
          "name":"Business School",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1873118877410890",
          "latitude":"55.9431078681228900",
          "address":"University of Edinburgh Business School 29 Buccleuch Place Edinburgh EH8 9JS",
@@ -110,7 +110,7 @@
       {
          "abbreviation":"0104",
          "name":"Bedlam Theatre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1908202171325684",
          "latitude":"55.9463762551806900",
          "address":"11b Bristo Place Edinburgh EH1 1EZ",
@@ -124,7 +124,7 @@
       {
          "abbreviation":"0113",
          "name":"Medical School (Old Medical School)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1905627250671387",
          "latitude":"55.9452347542822000",
          "address":"Teviot Place Edinburgh EH8 9AG",
@@ -138,7 +138,7 @@
       {
          "abbreviation":"0114",
          "name":"McEwan Hall",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1896400451660156",
          "latitude":"55.9453789457260800",
          "address":"Teviot Place Edinburgh EH8 9AG",
@@ -151,7 +151,7 @@
       },
       {
          "name":"Reid Concert Hall",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1894040107727050",
          "latitude":"55.9448983054919800",
          "address":"Bristo Square  Edinburgh EH8 9AL",
@@ -165,7 +165,7 @@
       {
          "abbreviation":"0116",
          "name":"Teviot Row House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1889533996582030",
          "latitude":"55.9449583858474800",
          "address":"Bristo Square  Edinburgh EH8 9AL",
@@ -179,7 +179,7 @@
       {
          "abbreviation":"0210",
          "name":"Hugh Robson Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1899189949035645",
          "latitude":"55.9442794724061900",
          "address":"George Square  Edinburgh EH8 9XD",
@@ -192,7 +192,7 @@
       },
       {
          "name":"International Office",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1854477524757385",
          "latitude":"55.9431904824069100",
          "address":"33 Buccluech Place  Edinburgh EH8 9JT",
@@ -219,7 +219,7 @@
       },
       {
          "name":"College of Humanities and Social Sciences Office",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1872582435607910",
          "latitude":"55.9439970889746000",
          "address":"55-56 George Square  Edinburgh EH8 9JU",
@@ -233,7 +233,7 @@
       {
          "abbreviation":"0227",
          "name":"George Square (50)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1871938705444336",
          "latitude":"55.9438408759789600",
          "address":"50 George Square  Edinburgh EH8 9LH",
@@ -247,7 +247,7 @@
       {
          "abbreviation":"0229",
          "name":"David Hume Tower Lecture Theatres",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1862711906433105",
          "latitude":"55.9435644975969700",
          "address":"George Square  Edinburgh EH8 9LX",
@@ -261,7 +261,7 @@
       {
          "abbreviation":"0228",
          "name":"David Hume Tower",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1866574287414550",
          "latitude":"55.9432040010911400",
          "address":"George Square  Edinburgh EH8 9JX",
@@ -274,7 +274,7 @@
       },
       {
          "name":"Student Counselling Service",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1886690855026245",
          "latitude":"55.9427804134090100",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
@@ -287,7 +287,7 @@
       },
       {
          "name":"Careers Service (Central Area)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1894576549530030",
          "latitude":"55.9426602458471200",
          "address":"Main University Library 30 George Square Edinburgh EH8 9LJ",
@@ -300,7 +300,7 @@
       },
       {
          "name":"Office of Lifelong Learning",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1795978546142580",
          "latitude":"55.9501339585784900",
          "address":"Paterson's Land Holyrood Road Edinburgh EH8 8AQ",
@@ -313,7 +313,7 @@
       },
       {
          "name":"International Students Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1877517700195312",
          "latitude":"55.9424709811810700",
          "address":"  Edinburgh ",
@@ -326,7 +326,7 @@
       },
       {
          "name":"Main University Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1891465187072754",
          "latitude":"55.9427113171064800",
          "address":"30 George Square  Edinburgh EH8 9LJ",
@@ -340,7 +340,7 @@
       {
          "abbreviation":"0225",
          "name":"George Square Lecture Theatre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1882023811340330",
          "latitude":"55.9428795513669100",
          "address":"George Square  Edinburgh EH8 9LH",
@@ -355,7 +355,7 @@
     
       {
          "name":"British Geological Survey",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1791687011718750",
          "latitude":"55.9242852441090000",
          "address":"Murchison House West Mains Road Edinburgh EH9 3LA",
@@ -369,7 +369,7 @@
       {
          "abbreviation":"0622",
          "name":"Weir Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1792438030242920",
          "latitude":"55.9231491035277340",
          "address":"King's Buildings Max Born Crescent Edinburgh EH9 3BF",
@@ -383,7 +383,7 @@
       {
          "abbreviation":"0621",
          "name":"Crew Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1776666641235350",
          "latitude":"55.9230950007645600",
          "address":"King's Buildings Alexander Crum Brown Road Edinburgh EH9 3FF",
@@ -397,7 +397,7 @@
       {
          "abbreviation":"0632",
          "name":"Joseph Black Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1762075424194336",
          "latitude":"55.9236600703440500",
          "address":"David Brewster Road King's Buildings Edinburgh EH9 3FJ",
@@ -411,7 +411,7 @@
       {
          "abbreviation":"0648",
          "name":"Roger Land Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1764221191406250",
          "latitude":"55.9223014848946700",
          "address":"Alexander Crum Brown Road King's Buildings Edinburgh EH9 3FF",
@@ -424,7 +424,7 @@
       },
       {
          "name":"Peter Wilson Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1765186786651610",
          "latitude":"55.9216221743117100",
          "address":"Nicholas Kemmer Road King's Buildings Edinburgh EH9 3FH",
@@ -437,7 +437,7 @@
       },
       {
          "name":"Grant Institute",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1746411323547363",
          "latitude":"55.9238464212712600",
          "address":"James Hutton Road King's Buildings Edinburgh EH9 3FE",
@@ -451,7 +451,7 @@
       {
          "abbreviation":"0637",
          "name":"King's Buildings House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1748771667480470",
          "latitude":"55.9235759115671200",
          "address":"KB Square King's Buildings Edinburgh EH9 3DL",
@@ -465,7 +465,7 @@
       {
          "abbreviation":"0639",
          "name":"King's Buildings Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1746411323547363",
          "latitude":"55.9229447149150500",
          "address":"Thomas Bayes Road King's Buildings Edinburgh EH9 3FG",
@@ -479,7 +479,7 @@
       {
          "abbreviation":"0613",
          "name":"James Clerk Maxwell Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1740939617156982",
          "latitude":"55.9216702674879260",
          "address":"Peter Guthrie Tait Road King's Buildings Edinburgh EH9 3FD",
@@ -493,7 +493,7 @@
       {
          "abbreviation":"0640-0644",
          "name":"Ashworth Laboratories",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1727099418640137",
          "latitude":"55.9239606359128100",
          "address":"Charlotte Auerbach Road King's Buildings Edinburgh EH9 3FL",
@@ -506,7 +506,7 @@
       },
       {
          "name":"Sanderson Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1717228889465330",
          "latitude":"55.9231010121864360",
          "address":"Robert Stevenson Road King's Buildings Edinburgh EH9 3FB",
@@ -520,7 +520,7 @@
       {
          "abbreviation":"0605",
          "name":"John Muir Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1732544302940370",
          "latitude":"55.9227328108771200",
          "address":"Colin Maclaurin Road  King's Buildings Edinburgh EH9 3DW",
@@ -534,7 +534,7 @@
       {
          "abbreviation":"0602",
          "name":"Hudson Beare Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1713366508483887",
          "latitude":"55.9225239114362440",
          "address":"Colin Maclaurin Road King's Buildings Edinburgh EH9 3DW",
@@ -548,7 +548,7 @@
       {
          "abbreviation":"0616",
          "name":"Alrick Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1714224815368652",
          "latitude":"55.9221632191038440",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -562,7 +562,7 @@
       {
          "abbreviation":"0608",
          "name":"Daniel Rutherford Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1706821918487550",
          "latitude":"55.9219287672878450",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -576,7 +576,7 @@
       {
          "abbreviation":"0610",
          "name":"Darwin Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1710684299468994",
          "latitude":"55.9214177776469500",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -589,7 +589,7 @@
       },
       {
          "name":"Swann Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1719267368316650",
          "latitude":"55.9216101510083200",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -602,7 +602,7 @@
       },
       {
          "name":"John Murray Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1734287738800050",
          "latitude":"55.9234316389528840",
          "address":"James Hutton Road King's Buildings Edinburgh EH9 3FE",
@@ -616,7 +616,7 @@
       {
          "abbreviation":"0647",
          "name":"March Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1728494167327880",
          "latitude":"55.9234436616912500",
          "address":"James Hutton Road King's Buildings Edinburgh EH9 3FE",
@@ -630,7 +630,7 @@
       {
          "abbreviation":"0652",
          "name":"Ann Walker Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1738901138305664",
          "latitude":"55.9231070236073500",
          "address":"Thomas Bayes Road King's Buildings Edinburgh EH9 3FG",
@@ -643,7 +643,7 @@
       },
       {
          "name":"Structures Lab",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1726777553558350",
          "latitude":"55.9229086462244400",
          "address":"Colin Maclaurin Road King's Buildings Edinburgh EH9 3DW",
@@ -657,7 +657,7 @@
       {
          "abbreviation":"0615",
          "name":"Fleeming Jenkin Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1723880767822266",
          "latitude":"55.9224096925608100",
          "address":"Colin Maclaurin Road King's Buildings Edinburgh EH9 3DW",
@@ -670,7 +670,7 @@
       },
       {
          "name":"Alexander Graham Bell Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1727340817451477",
          "latitude":"55.9222684213808400",
          "address":"King's Buildings Thomas Bayes Road Edinburgh EH9 3FG",
@@ -683,7 +683,7 @@
       },
       {
          "name":"Pleasance",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1815088394796476",
          "latitude":"55.9478375275095800",
          "address":"Pleasance  Edinburgh EH8 9TJ",
@@ -696,7 +696,7 @@
       },
       {
          "name":"Pollock Halls of Residence",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1718409061431885",
          "latitude":"55.9403791945471550",
          "address":"18 Holyrood Park Road Edinburgh EH16 5AY",
@@ -710,7 +710,7 @@
       {
          "abbreviation":"0905",
          "name":"Abden House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1692230701446533",
          "latitude":"55.9374401075255800",
          "address":"1 Marchhall Crescent Edinburgh EH16 5HP",
@@ -723,7 +723,7 @@
       },
       {
          "name":"South College Street",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1870731711387634",
          "latitude":"55.9469785335416740",
          "address":" South College Street Edinburgh EH8 9AA",
@@ -736,7 +736,7 @@
       },
       {
          "name":"George Square",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1886315345764160",
          "latitude":"55.9435284480973960",
          "address":" George Square Edinburgh EH8 9JZ",
@@ -749,7 +749,7 @@
       },
       {
          "name":"Informatics Forum",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1875371932983400",
          "latitude":"55.9446652929679200",
          "address":"10 Crichton Street Edinburgh EH8 9AB",
@@ -762,7 +762,7 @@
       },
       {
          "name":"Dugald Stewart Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1878590583801270",
          "latitude":"55.9451506423586760",
          "address":"3 Charles Street Edinburgh EH8 9AD",
@@ -776,7 +776,7 @@
       {
          "abbreviation":"0603",
          "name":"Faraday Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1716692447662354",
          "latitude":"55.9223360512652800",
          "address":"Colin Maclaurin Road King's Buildings Edinburgh EH9 3DW",
@@ -789,7 +789,7 @@
       },
       {
          "name":"Chancellor's Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1368756294250490",
          "latitude":"55.9220181396980500",
          "address":"49 Little France Crescent Edinburgh EH16 4SB",
@@ -802,7 +802,7 @@
       },
       {
          "name":"Queen's Medical Research Institute",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1388711929321290",
          "latitude":"55.9222413693940400",
          "address":"47 Little France Crescent Edinburgh EH16 4TJ",
@@ -815,7 +815,7 @@
       },
       {
          "name":"Chrystal Macmillan Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1908416748046875",
          "latitude":"55.9441765328811300",
          "address":"15a George Square Edinburgh EH8 9LD",
@@ -828,7 +828,7 @@
       },
       {
          "name":"Visitor Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1877946853637695",
          "latitude":"55.9450867572402600",
          "address":"2 Charles Street Edinburgh EH8 9AD",
@@ -841,7 +841,7 @@
       },
       {
          "name":"Talbot Rice Gallery",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1878644227981567",
          "latitude":"55.9471933088459540",
          "address":"Old College South Bridge Edinburgh EH8 9YL",
@@ -855,7 +855,7 @@
       {
          "abbreviation":"0009",
          "name":"Charles Stewart House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1879770755767822",
          "latitude":"55.9479614837865200",
          "address":"9-16 Chambers Street Edinburgh EH1 1HT",
@@ -869,7 +869,7 @@
       {
          "abbreviation":"0701",
          "name":"Royal (Dick) School of Veterinary Studies",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2010340690612793",
          "latitude":"55.8658360390777300",
          "address":"Easter Bush Midlothian Edinburgh EH25 9RG",
@@ -882,7 +882,7 @@
       },
       {
          "name":"Buccleuch Place",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1865286827087402",
          "latitude":"55.9428735430130360",
          "address":"Buccleuch Place Edinburgh ",
@@ -896,7 +896,7 @@
       {
          "abbreviation":"0658",
          "name":"Erskine Williamson Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1745553016662598",
          "latitude":"55.9213997425953900",
          "address":"Peter Guthrie Tait Road King's Buildings Edinburgh EH9 3FD",
@@ -910,7 +910,7 @@
       {
          "abbreviation":"0109",
          "name":"Health Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1881996989250183",
          "latitude":"55.9458580780220500",
          "address":"6 Bristo Square  Edinburgh EH8 9AL",
@@ -923,7 +923,7 @@
       },
       {
          "name":"William Rankine Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1731122732162476",
          "latitude":"55.9225299229466700",
          "address":"Thomas Bayes Road King's Buildings Edinburgh EH9 3FG",
@@ -937,7 +937,7 @@
       {
          "abbreviation":"0558",
          "name":"Charteris Land",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1809121370315550",
          "latitude":"55.9501515797825100",
          "address":"Holyrood Road  Edinburgh EH8 8AQ",
@@ -951,7 +951,7 @@
       {
          "abbreviation":"0561",
          "name":"Simon Laurie House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1815370917320250",
          "latitude":"55.9509011741071300",
          "address":"186 -198 Canongate  Edinburgh EH8 8AQ",
@@ -965,7 +965,7 @@
       {
          "abbreviation":"0553",
          "name":"St John's Land",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1810247898101807",
          "latitude":"55.9508486118686200",
          "address":"Holyrood  Edinburgh EH8 8AQ",
@@ -979,7 +979,7 @@
       {
          "abbreviation":"0552",
          "name":"Dalhousie Land",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1807351112365723",
          "latitude":"55.9506295517108000",
          "address":"Holyrood  Edinburgh EH8 8AQ",
@@ -993,7 +993,7 @@
       {
          "abbreviation":"0556",
          "name":"Old Nursery School Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1806653738021850",
          "latitude":"55.9504253080368300",
          "address":"Holyrood  Edinburgh EH8 8AQ",
@@ -1007,7 +1007,7 @@
       {
          "abbreviation":"0555",
          "name":"Thomson's Land",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1800457835197450",
          "latitude":"55.9507765263969360",
          "address":"Holyrood  Edinburgh EH8 8AQ",
@@ -1020,7 +1020,7 @@
       },
       {
          "name":"Moray House Reception \/ Old Moray House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1804883480072020",
          "latitude":"55.9510920995776900",
          "address":"Holyrood  Edinburgh EH8 8AQ",
@@ -1033,7 +1033,7 @@
       },
       {
          "name":"Roslin Institute",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1981158256530760",
          "latitude":"55.8654627786743400",
          "address":"Easter Bush Midlothian Edinburgh EH25 9RG",
@@ -1046,7 +1046,7 @@
       },
       {
          "name":"Procurement Office incorporating Printing Services",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1851929426193237",
          "latitude":"55.9483617857850800",
          "address":"13 Infirmary Street  Edinburgh EH1 1LT",
@@ -1059,7 +1059,7 @@
       },
       {
          "name":"MacKenzie Medical Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1835299730300903",
          "latitude":"55.9455922279190640",
          "address":"Levinson House 20 West Richmond Street Edinburgh EH8 9DX",
@@ -1073,7 +1073,7 @@
       {
          "abbreviation":"0322",
          "name":"Roxburgh Street (1)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1833046674728394",
          "latitude":"55.9478807820734050",
          "address":"1 Roxburgh Street  Edinburgh EH8 9TA",
@@ -1086,7 +1086,7 @@
       },
       {
          "name":"Western General Hospital",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2348728179931640",
          "latitude":"55.9620294457321560",
          "address":"Crewe Road South  Edinburgh EH4 2XU",
@@ -1100,7 +1100,7 @@
       {
          "abbreviation":"0271-0272",
          "name":"Hope Park Square",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1860485672950745",
          "latitude":"55.9420752097637600",
          "address":"Hope Park Square  Edinburgh EH8 9NW",
@@ -1113,7 +1113,7 @@
       },
       {
          "name":"Careers Service (King's Buildings)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1792491674423218",
          "latitude":"55.9232092176204700",
          "address":"Weir Building Max Born Crescent Edinburgh EH9 3BF",
@@ -1126,7 +1126,7 @@
       },
       {
          "name":"C.H. Waddington Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1700813770294190",
          "latitude":"55.9216402092597900",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -1139,7 +1139,7 @@
       },
       {
          "name":"Labyrinth",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1895273923873900",
          "latitude":"55.9438284590276300",
          "address":"George Square  Edinburgh EH8 9JZ.",
@@ -1152,7 +1152,7 @@
       },
       {
          "name":"Institute for Academic Development",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1821757704892660",
          "latitude":"55.9498129209811600",
          "address":"1 Morgan Lane  Edinburgh EH8 8FP",
@@ -1165,7 +1165,7 @@
       },
       {
          "name":"Hospital for Small Animals",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2022893428802490",
          "latitude":"55.8650834942677400",
          "address":"Easter Bush Midlothian Edinburgh EH25 9RG",
@@ -1178,7 +1178,7 @@
       },
       {
          "name":"Old Faculty Office",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1785035133361816",
          "latitude":"55.9235578775196900",
          "address":"Max Born Crescent  King's Buildings Edinburgh EH9 3BF",
@@ -1191,7 +1191,7 @@
       },
       {
          "name":"Infirmary Street (9-11)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1853377819061280",
          "latitude":"55.9483347520127000",
          "address":"9-11 Infirmary Street EH1 1NP  ",
@@ -1204,7 +1204,7 @@
       },
       {
          "name":"Bristo Square (7)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1881058216094970",
          "latitude":"55.9456913586793300",
          "address":"7 Bristo Square  Edinburgh EH8 9AL",
@@ -1217,7 +1217,7 @@
       },
       {
          "name":"John McIntyre Conference Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1700706481933594",
          "latitude":"55.9400090542789300",
          "address":"18 Holyrood Park Road Edinburgh EH16 5AY",
@@ -1230,7 +1230,7 @@
       },
       {
          "name":"Old Surgeons' Hall",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1831464171409607",
          "latitude":"55.9484864412690800",
          "address":"Surgeons Square High School Yards Edinburgh EH1 1LZ",
@@ -1243,7 +1243,7 @@
       },
       {
          "name":"Old Infirmary (Geography)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1837606430053710",
          "latitude":"55.9482334252486500",
          "address":"1 Drummond Street  Edinburgh EH8 9XP",
@@ -1256,7 +1256,7 @@
       },
       {
          "name":"Drummond Library (GeoSciences)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1829774379730225",
          "latitude":"55.9486869905629200",
          "address":"High School Yards  Edinburgh EH1 1LZ",
@@ -1269,7 +1269,7 @@
       },
       {
          "name":"Chisholm House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1830418109893800",
          "latitude":"55.9488491914385600",
          "address":"1 Surgeons Square High School Yards Edinburgh EH1 1LZ",
@@ -1282,7 +1282,7 @@
       },
       {
          "name":"Drummond Street Annex",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1829130649566650",
          "latitude":"55.9482574553323400",
          "address":"1 Drummond Street Edinburgh EH1 1LZ",
@@ -1295,7 +1295,7 @@
       },
       {
          "name":"Evolution House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2005995512008667",
          "latitude":"55.9460736605762700",
          "address":"78 Westport Edinburgh EH1 2LE",
@@ -1308,7 +1308,7 @@
       },
       {
          "name":"Hunter Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1980729103088380",
          "latitude":"55.9451282124570850",
          "address":"Lauriston Place Edinburgh EH3 9DF",
@@ -1321,7 +1321,7 @@
       },
       {
          "name":"ECA Main Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1990599632263184",
          "latitude":"55.9458551741833600",
          "address":"Lauriston Place Edinburgh EH3 9DF",
@@ -1334,7 +1334,7 @@
       },
       {
          "name":"William Robertson Wing",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1907665729522705",
          "latitude":"55.9450080521798600",
          "address":"Doorway 4 Teviot Place Edinburgh EH8 9AG",
@@ -1347,7 +1347,7 @@
       },
       {
          "name":"Economics, School of",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1860029697418213",
          "latitude":"55.9431288972300800",
          "address":"30-31 Buccleuch Place  Edinburgh EH8 9JT",
@@ -1360,7 +1360,7 @@
       },
       {
          "name":"Scottish Centre for Regenerative Medicine",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1307816505432130",
          "latitude":"55.9213756958468900",
          "address":"Edinburgh bioQuarter 5 Little France Drive Edinburgh EH16 4UU",
@@ -1373,7 +1373,7 @@
       },
       {
          "name":"Clinical Research Imaging Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1395041942596436",
          "latitude":"55.9218746628211960",
          "address":"47 Little France Crescent Edinburgh EH16 4TJ",
@@ -1386,7 +1386,7 @@
       },
       {
          "name":"Riddell-Swan Veterinary Cancer Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2020211219787598",
          "latitude":"55.8647884927243440",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1399,7 +1399,7 @@
       },
       {
          "name":"Equine Hospital",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1992530822753906",
          "latitude":"55.8642948116602700",
          "address":"Easter Bush Campus Edinburgh EH25 9RG",
@@ -1412,7 +1412,7 @@
       },
       {
          "name":"Easter Bush Campus Service Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1989848613739014",
          "latitude":"55.8665524481898640",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1425,7 +1425,7 @@
       },
       {
          "name":"Sir Alexander Robertson Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1983304023742676",
          "latitude":"55.8648005336474900",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1438,7 +1438,7 @@
       },
       {
          "name":"Farm Animal Practice and Equine Clinical Unit",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1991994380950928",
          "latitude":"55.8648607382074200",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1451,7 +1451,7 @@
       },
       {
          "name":"Farm Animal Hospital",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1998538970947266",
          "latitude":"55.8641382773298200",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1464,7 +1464,7 @@
       },
       {
          "name":"Scintigraphy and Exotic Animal Unit",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1989204883575440",
          "latitude":"55.8637529593674600",
          "address":"Easter Bush Roslin Edinburgh EH25 9RG",
@@ -1477,7 +1477,7 @@
       },
       {
          "name":"Biomedical Research Facility",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2382416725158690",
          "latitude":"55.9628822006132100",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1490,7 +1490,7 @@
       },
       {
          "name":"CJD Surveillance Unit",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2370507717132570",
          "latitude":"55.9621555585534200",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1503,7 +1503,7 @@
       },
       {
          "name":"Wellcome Trust Clinical Research Facility",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2354736328125000",
          "latitude":"55.9622036014248400",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1516,7 +1516,7 @@
       },
       {
          "name":"Clinical Neurosciences",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2371473312377930",
          "latitude":"55.9618192567835000",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1529,7 +1529,7 @@
       },
       {
          "name":"Bramwell Dott Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2368093729019165",
          "latitude":"55.9613568370782500",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1542,7 +1542,7 @@
       },
       {
          "name":"Division of Pathology Laboratories",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2339179515838623",
          "latitude":"55.9620714833849000",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1555,7 +1555,7 @@
       },
       {
          "name":"IGMM Complex",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2323193550109863",
          "latitude":"55.9622936816480400",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -1568,7 +1568,7 @@
       },
       {
          "name":"Noreen and Kenneth Murray Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1750380992889404",
          "latitude":"55.9229507263602100",
          "address":"King's Buildings Thomas Bayes Road Edinburgh EH9 3FG",
@@ -1581,7 +1581,7 @@
       },
       {
          "name":"Anatomical Museum",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1900537014010410",
          "latitude":"55.9450908404547600",
          "address":"Doorway 3, Medical School Teviot Place Edinburgh EH8 9AG",
@@ -1594,7 +1594,7 @@
       },
       {
          "name":"Reid Museum of Musical Instruments",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1891578435900670",
          "latitude":"55.9449286238358500",
          "address":"Reid Concert Hall Bristo Square Edinburgh EH8 9AL",
@@ -1607,7 +1607,7 @@
       },
       {
          "name":"Law and Europa Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1871294975280760",
          "latitude":"55.9476619053750600",
          "address":" ",
@@ -1620,7 +1620,7 @@
       },
       {
          "name":"Moray House Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1807780265808105",
          "latitude":"55.9506025195216950",
          "address":" ",
@@ -1633,7 +1633,7 @@
       },
       {
          "name":"New College Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1952404975891113",
          "latitude":"55.9495242201428600",
          "address":"   ",
@@ -1646,7 +1646,7 @@
       },
       {
          "name":"Main Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1888461112976074",
          "latitude":"55.9426872835810500",
          "address":" ",
@@ -1659,7 +1659,7 @@
       },
       {
          "name":"Noreen and Kenneth Murray Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1750273704528810",
          "latitude":"55.9228966233201300",
          "address":" ",
@@ -1672,7 +1672,7 @@
       },
       {
          "name":"Darwin Learning & Teaching Cluster",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1713849306106567",
          "latitude":"55.9217424071404140",
          "address":"Max Born Crescent King's Buildings Edinburgh EH9 3BF",
@@ -1718,7 +1718,7 @@
       },
       {
          "name":"King's House Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1749415397644043",
          "latitude":"55.9235518661687000",
          "address":" ",
@@ -1808,7 +1808,7 @@
       },
       {
          "name":"Mayfield, after Rankin Drive",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1725382804870605",
          "latitude":"55.9247781624674100",
          "address":" ",
@@ -1821,7 +1821,7 @@
       },
       {
          "name":"Mayfield, before Rankin Drive",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1726455688476562",
          "latitude":"55.9246789781796000",
          "address":" ",
@@ -1834,7 +1834,7 @@
       },
       {
          "name":"Mayfield, after Mayfield Road",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1740376353263855",
          "latitude":"55.9243829265988400",
          "address":" ",
@@ -1847,7 +1847,7 @@
       },
       {
          "name":"Mayfield, before Observatory Road",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1798875331878660",
          "latitude":"55.9245843020317250",
          "address":" ",
@@ -1860,7 +1860,7 @@
       },
       {
          "name":"Newington, at Kings Hall",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1806921958923340",
          "latitude":"55.9406984576726500",
          "address":" ",
@@ -1873,7 +1873,7 @@
       },
       {
          "name":"South Side, opp Meadow Lane",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1845009326934814",
          "latitude":"55.9431679512560000",
          "address":" ",
@@ -1886,7 +1886,7 @@
       },
       {
          "name":"South Side, before Marshall Street",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1853377819061280",
          "latitude":"55.9458475642108300",
          "address":" ",
@@ -1899,7 +1899,7 @@
       },
       {
          "name":"South Side, Potterow (NW-bound)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1861424446105957",
          "latitude":"55.9444176592925600",
          "address":" ",
@@ -1912,7 +1912,7 @@
       },
       {
          "name":"South Side, Potterrow (SE-bound)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1867969036102295",
          "latitude":"55.9456072477475400",
          "address":" ",
@@ -1925,7 +1925,7 @@
       },
       {
          "name":"Canongate, after Gullan's Close",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1811615824699400",
          "latitude":"55.9494806670300300",
          "address":" ",
@@ -1938,7 +1938,7 @@
       },
       {
          "name":"Student Recruitment and Admissions",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1854933500289917",
          "latitude":"55.9431919844831500",
          "address":"33 Buccleuch Place  Edinburgh EH8 9JT",
@@ -1951,7 +1951,7 @@
       },
       {
          "name":"George Square (16-22)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1905305385589600",
          "latitude":"55.9434923985642300",
          "address":"16-22 George Square  Edinbrugh EH8 9LD",
@@ -1964,7 +1964,7 @@
       },
       {
          "name":"George Square (2-15)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1889963150024414",
          "latitude":"55.9444476998548050",
          "address":"1-15 George Square  Edinburgh EH8 9JZ",
@@ -1977,7 +1977,7 @@
       },
       {
          "name":"George Square (55-60)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1872904300689697",
          "latitude":"55.9441773339558350",
          "address":"55-60 George Square  Edinburgh EH8 9JU",
@@ -1990,7 +1990,7 @@
       },
       {
          "name":"George Square (1)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1880736351013184",
          "latitude":"55.9445678618707000",
          "address":"1 George Square  Edinburgh EH8 9JZ",
@@ -2003,7 +2003,7 @@
       },
       {
          "name":"FloWave Ocean Energy Research Facility",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1787583231925964",
          "latitude":"55.9221391728290200",
          "address":"Building 29, King's Buildings Max Born Crescent Edinburgh EH9 3BF",
@@ -2016,7 +2016,7 @@
       },
       {
          "name":"Edinburgh Dental Institute",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1972124129561053",
          "latitude":"55.9444931361609100",
          "address":"4th Floor, Lauriston Building Lauriston Place Edinburgh EH3 9HA",
@@ -2029,7 +2029,7 @@
       },
       {
          "name":"Medical Education Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2344329357147217",
          "latitude":"55.9623867643250750",
          "address":"Western General Hospital  Edinburgh EH4 2XU",
@@ -2075,7 +2075,7 @@
       },
       {
          "name":"Edinburgh College of Art Library",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2006961107254030",
          "latitude":"55.9461449537695200",
          "address":"   ",
@@ -2088,7 +2088,7 @@
       },
       {
          "name":"Arcadia Nursery",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1770189106464386",
          "latitude":"55.9243168030941800",
          "address":"Max Born Crescent  Edinburgh EH9 3BF",
@@ -2101,7 +2101,7 @@
       },
       {
          "name":"Christina Miller Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1762893497943880",
          "latitude":"55.9228830975483100",
          "address":"KB Square King's Buildings Edinburgh EH9 3DL",
@@ -2114,7 +2114,7 @@
       },
       {
          "name":"St Leonard's Land",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1796447932720184",
          "latitude":"55.9494235973597600",
          "address":"Holyrood Road  Edinburgh EH8 8AQ",
@@ -2127,7 +2127,7 @@
       },
       {
          "name":"Forrest Hill Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1919199228286743",
          "latitude":"55.9460157848478160",
          "address":"5 Forrest Hill  Edinburgh EH1 2QL",
@@ -2140,7 +2140,7 @@
       },
       {
          "name":"Sport and Exercise, Centre for",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1814534553996054",
          "latitude":"55.9482471864297600",
          "address":"46 Pleasance  Edinburgh EH8 9TJ",
@@ -2153,7 +2153,7 @@
       },
       {
          "name":"High School Yards",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1839591264724730",
          "latitude":"55.9486696690834200",
          "address":"  Edinburgh EH1 1LZ",
@@ -2166,7 +2166,7 @@
       },
       {
          "name":"North-East Studio Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1977570356684737",
          "latitude":"55.9459624149394800",
          "address":"Lauriston Place  Edinburgh EH3 9DF",
@@ -2179,7 +2179,7 @@
       },
       {
          "name":"Wilkie Building",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1891815438893900",
          "latitude":"55.9447400183455340",
          "address":"Medical School 22 - 23 Teviot Row Edinburgh EH8 9AG",
@@ -2192,7 +2192,7 @@
       },
       {
          "name":"George Square (27-29)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1902951300253335",
          "latitude":"55.9430755233431750",
          "address":"27-29 George Square  Edinburgh EH8 9LD",
@@ -2205,7 +2205,7 @@
       },
       {
          "name":"Buccleuch Place (17-25)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1878757776576094",
          "latitude":"55.9424656737581000",
          "address":"17-25 Buccleuch Place  Edinburgh EH8 9LN",
@@ -2218,7 +2218,7 @@
       },
       {
          "name":"Buccleuch Place (14-16)",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1867445111493000",
          "latitude":"55.9426225932921140",
          "address":"14-16 Buccleuch Place  Edinburgh EH8 9LN",
@@ -2231,7 +2231,7 @@
       },
       {
          "name":"Chaplaincy",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1882885248342063",
          "latitude":"55.9462294139965200",
          "address":"1 Bristo Square  Edinburgh EH8 9AL",
@@ -2244,7 +2244,7 @@
       },
       {
          "name":"Lister Postgraduate Institute",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1843734387075530",
          "latitude":"55.9471766876073300",
          "address":"11 Hill Square  Edinburgh EH8 9DR",
@@ -2257,7 +2257,7 @@
       },
       {
          "name":"Old Kirk",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1805157959570350",
          "latitude":"55.9497682168029700",
          "address":"37 Holyrood Rd  Edinburgh EH8 8AQ",
@@ -2270,7 +2270,7 @@
       },
       {
          "name":"Outreach Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1820768416037026",
          "latitude":"55.9495309283313200",
          "address":"9C Holyrood Road  Edinburgh EH8 8FP",
@@ -2283,7 +2283,7 @@
       },
       {
          "name":"Biospace",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1787515282849200",
          "latitude":"55.9224952565814800",
          "address":"Max Born Crescent  Edinburgh EH9 3BF",
@@ -2296,7 +2296,7 @@
       },
       {
          "name":"UK Biochar Research Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1784296632031330",
          "latitude":"55.9231865746809500",
          "address":"Max Born Crescent  Edinburgh EH9 3BF",
@@ -2309,7 +2309,7 @@
       },
       {
          "name":"Anne Rowling Regenerative Neurology Clinic",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1377825290019246",
          "latitude":"55.9218908679254340",
          "address":"49 Little France Crescent  Edinburgh EH16 4SB",
@@ -2322,7 +2322,7 @@
       },
       {
          "name":"Minto House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1890824587026145",
          "latitude":"55.9477839098566900",
          "address":"20-22 Chambers Street  Edinburgh EH1 1HT",
@@ -2335,7 +2335,7 @@
       },
       {
          "name":"Adam House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1873882416402920",
          "latitude":"55.9480778301324100",
          "address":"3 Chambers Street  Edinburgh EH1 1HT",
@@ -2348,7 +2348,7 @@
       },
       {
          "name":"Old College",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1864655617391690",
          "latitude":"55.9475371471338900",
          "address":"South Bridge  Edinburgh EH8 9YL",
@@ -2361,7 +2361,7 @@
       },
       {
          "name":"Institute for Advanced Studies in the Humanities",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1859871894175740",
          "latitude":"55.9421498800494850",
          "address":"Hope Park Square  Edinburgh EH8 9NW",
@@ -2374,7 +2374,7 @@
       },
       {
          "name":"Scottish Microelectronic Centre",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.1778985858181840",
          "latitude":"55.9221375697679600",
          "address":"Alexander Crum Brown Road  Edinburgh EH9 3FF",
@@ -2387,7 +2387,7 @@
       },
       {
          "name":"Argyle House",
-         "image":"default.jpg"
+         "image":"default.jpg",
          "longitude":"-3.2017106117564254",
          "latitude":"55.9467404269524100",
          "address":"3 Lady Lawson Street  Edinburgh EH3 9DR",
