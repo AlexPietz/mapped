@@ -32,7 +32,7 @@
 						marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: bookIcon, opacity: 0.75}).addTo(map);
 				  } else {
 				  	marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: uniIcon, opacity: 0.75}).addTo(map);
-					}
+					};
 					marker.bindPopup("I am "+data2[i].name); 
 					var campus = data2[i].campuses[0];
 					if (campus == "central") {
@@ -111,6 +111,7 @@
 					</div>
 				</div>
 			</div>
+			
 		</div>
 		<!-- TOP Container START--> 
 
