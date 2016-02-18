@@ -22,16 +22,22 @@
 		thisApp.controller('BuildingCtrl', function ($scope, $http){
 			$http.get('data2.json').success(function(data2) {
 				$scope.Buildings = data2;
+				var array = [];
 				for (var i =0; i< data2.length; i++) {
 					data2[i].id = i;
-					console.log(data2[i].campuses[0])
-					marker = L.marker([data2[i].latitude, data2[i].longitude],{opacity: 0.5}).addTo(map);
+
+					if (data2[i].categories[0] == "Cafeterias") {
+						marker = L.marker([data2[i].latitude, data2[i].longitude],{icon: cafeIcon, zIndexOffset:100}).addTo(map);
+				  } else {
+				  	marker = L.marker([data2[i].latitude, data2[i].longitude],{opacity: 0.75}).addTo(map);
+					}
 					marker.bindPopup("I am "+data2[i].name); 
 					if (data2[i].campuses[0] == "central") {
-					marker.addTo(central); 
+						marker.addTo(central); 
+					};
+					array.push(marker);
 				};
-				};
-				$scope.addmarker = function(x,y, name) { marker.openPopup(); map.setView([x,y], 18);};
+				$scope.goTo = function(x,y, id) { array[id].openPopup(); map.setView([x,y], 18);};
 			});
 		});
 	</script>
@@ -94,10 +100,22 @@
 		</div>
 		<!-- TOP Container START--> 
 
+ 		<!-- TODO IMPORTANT!!! CREDIT https://commons.wikimedia.org/wiki/File:Map_marker_icon_%E2%80%93_Nicolas_Mollet_%E2%80%93_Coffee_%E2%80%93_Restaurants_%26_Hotels_%E2%80%93_White.png AUTHOR OF CAFE ICON" -->
 		<!-- Map START--> 
 		<div id="map" class="img-responsive" data-spy="affix" data-offset-top="250"> </div>
-		<script>  var map = L.map('map').setView([55.943,-3.18], 13); //initialize map
-						var central = new L.LayerGroup();
+		<script> 
+			var cafeIcon = L.icon({
+			    iconUrl: 'images/cafe.png',
+			    shadowUrl: 'images/cafe.png',
+
+			    iconSize:     [32, 37], // size of the icon
+			    shadowSize:   [0, 0], // size of the shadow
+			    iconAnchor:   [16,35], // point of the icon which will correspond to marker's location
+			    shadowAnchor: [0, 0],  // the same for the shadow
+			    popupAnchor:  [0, -38] // point from which the popup should open relative to the iconAnchor
+			});
+			var map = L.map('map').setView([55.9435284480973960,-3.1886315345764160], 15); //initialize map
+			var central = new L.LayerGroup();
 			map.scrollWheelZoom.disable();
 			L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // create the tile layer with correct attribution
 				attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -123,7 +141,7 @@
 					<div class="panel-heading">
 						<h2 class="panel-title">
               <b>
-							 <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{Building.id}}" ng-click="addmarker(Building.latitude, Building.longitude, Building.name)">{{Building.name}} 
+							 <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{Building.id}}" ng-click="a=goTo(Building.latitude, Building.longitude, Building.id)">{{Building.name}} 
                </a>
 						  </b>
             </h2>
