@@ -16,8 +16,9 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
+		 "quietstudy":"YES",
          "name":"Mary Br\u00fcck building",
          "image":"default.jpg",
          "longitude":"-3.1730116009930500",
@@ -241,12 +242,11 @@
          "description":["APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square.Appleton Tower comprises of a lower ground, ground, and ten floors incorporating teaching areas and plant rooms. Wherever possible the University has installed access ramps and access lifts to help mobility-impaired building users gain access to our buildings. mergency evacuation procedures for wheelchair users are in place in the event of fire; but all persons with a disability are required to ensure the Personal Evacuation Escape Plan is in place and suitable for their needs. There is no fire evacuation lift at this time."],
 		    "floors":["floor0.jpg","floor1.jpg"],
          "computers":"YES",
-         "description":"APPLETON TOWER was named in posthumous honour of physicist Sir Edward Appleton, the Principal who oversaw the development from vision into concrete reality of the 1960s Edinburgh University buildings around George Square ",
          "name":"Appleton Tower",
          "longitude":"-3.1870651245117188",
          "latitude":"55.9444416917442200",
          "address":"11 Crichton Street  Edinburgh EH8 9LE",
-		    "facilities":["52 usable computers", "Cafeteria", "8 lecture theathres"],
+		    "facilities":["52 usable computers", "Cafeteria", "5 lecture theathres", "3 seminar rooms", "Extensive concourse area"],
          "campuses":[
             "central"
          ],
@@ -1810,8 +1810,9 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
+		 "quietstudy":"YES",
          "name":"Noreen and Kenneth Murray Library",
          "image":"default.jpg",
          "longitude":"-3.1750380992889404",
@@ -1870,10 +1871,11 @@
          ]
       },
       {
-         "computers":"",
+         "computers":"YES",
          "description":"",
          "name":"Moray House Library",
          "image":"default.jpg",
+		 "silentstudy":"YES",
          "longitude":"-3.1807780265808105",
          "latitude":"55.9506025195216950",
          "address":" ",
@@ -1889,6 +1891,7 @@
          "description":"",
 		 "quietstudy":"YES",
          "name":"New College Library",
+		 "silentstudy":"YES",
          "image":"default.jpg",
          "longitude":"-3.1952404975891113",
          "latitude":"55.9495242201428600",
@@ -2464,6 +2467,8 @@
          "longitude":"-3.1919199228286743",
          "latitude":"55.9460157848478160",
          "address":"5 Forrest Hill  Edinburgh EH1 2QL",
+		 "facilities":["DiCe computer access", "Lab rooms with DiCe computers", "Large Drill Hall"],
+		 "description":["Number 5 Forrest Hill was constructed in 1872. In 1969, the University of Edinburgh took over part of Number 5 Forrest Hill from the Army. Until circa 1990, the Army and the University shared the building. Number 5 Forrest Hill was occupied by the University  Of Edinburgh School Of Informatics until 2008.  The building  is now occupied by the Communications and Marketing  section and teaching space"],
          "campuses":[
             "central"
          ],
